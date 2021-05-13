@@ -10,6 +10,8 @@ from localproxy import LocalProxy
 
 import os
 import platform
+import shutil
+
 import xbmc, xbmcgui
 from hashlib import md5
 
@@ -35,7 +37,8 @@ class Service:
             Const.SET('compatibility','false')
         # ディレクトリをチェック
         if not os.path.isdir(Const.CACHE_PATH): os.makedirs(Const.CACHE_PATH)
-        if not os.path.isdir(Const.MEDIA_PATH): os.makedirs(Const.MEDIA_PATH)
+        #if not os.path.isdir(Const.MEDIA_PATH): os.makedirs(Const.MEDIA_PATH)
+        if not os.path.isdir(Const.MEDIA_PATH): shutil.copytree(Const.LOGO_PATH, Const.MEDIA_PATH)
         if not os.path.isdir(Const.DATA_PATH):  os.makedirs(Const.DATA_PATH)
         # いろいろ初期化
         self.lastupdt = ''

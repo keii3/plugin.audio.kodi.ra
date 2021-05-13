@@ -21,6 +21,8 @@ class Params:
     STATION_FILE = os.path.join(DATA_PATH, 'station.json')
     SETTINGS_FILE = os.path.join(DATA_PATH, 'settings.xml')
 
+    STN = 'misc_'
+
 
 class Misc(Params, Jcba):
 
