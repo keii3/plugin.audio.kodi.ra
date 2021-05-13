@@ -97,16 +97,12 @@ class Jcba(Params):
         if data:
             sj = convert(json.loads(data), True)
             items = sj['items']
-            # log('no of items?: %s' % len(items))
             if len(items) <= 3:
                 ret = True
             else:
                 now = datetime.now()
-                # log('%s' % items[len(items)-3]['end']['dateTime'][0:19])
                 if  now < datetime.strptime(items[len(items)-3]['end']['dateTime'][0:19], '%Y-%m-%dT%H:%M:%S'):
                     ret = True
-
-        # log('result: %s' % ret)
         return ret
 
     def getSchedule(self, calendar='', fp=''):
@@ -115,7 +111,7 @@ class Jcba(Params):
         headers={}
 
         url = (self.PROGRAM_URL % urllib.quote(calendar))
-        log('target url:%s' % url)
+        #log('target url:%s' % url)
 
         params = {
             'orderBy':'startTime',
@@ -127,13 +123,13 @@ class Jcba(Params):
             'fields':'description,items(anyoneCanAddSelf,attendees,attendeesOmitted,colorId,description,end,endTimeUnspecified,id,source,start,status,summary,description),summary',
             'key':'AIzaSyAWUXnG9xZJSHfDXRBTMq5uxBVUBEUXWeU'
         }
-        log('target params:%s' % params)
+        #log('target params:%s' % params)
 
         headers = {
             'x-referer': 'https://www.jcbasimul.com',
             'referer': 'https://content.googleapis.com/static/proxy.html?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.ja.H6QrK-xKX2c.O%2Fam%3DAQ%2Fd%3D1%2Fct%3Dzgms%2Frs%3DAGLTcCP5KUdrvNMBxQCtLtkegDcOaSTRPw%2Fm%3D__features__'
         }
-        log('target headers:%s' % headers)
+        #log('target headers:%s' % headers)
 
         try:
             if calendar:
@@ -202,7 +198,6 @@ class Jcba(Params):
                             pp = [s]
                             break
                     pp.append(items[idx])
-                    # log('pp: %s' % pp)
 
                     for p in pp:
                         t=p['start']['dateTime']

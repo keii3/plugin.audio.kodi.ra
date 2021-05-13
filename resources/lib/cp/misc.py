@@ -62,6 +62,14 @@ class Misc(Params, Jcba):
         # 設定データを書き込む
         write_file(self.SETTINGS_FILE, '\n'.join(buf))
 
+    def getProgramData(self, renew=False):
+        # jcba.pyから移設
+        # 最新の番組データを取得、なければ放送局データから生成する
+        results = [{'id': s['id'], 'progs': [{'title': s.get('onair') or Const.STR(30059)}]} for s in self.getStationData()]
+        # デフォルトは更新なし
+        nextupdate = '9' * 14
+        return results, nextupdate
+
     def beginEdit(self, id):
         data = filter(lambda x:x['id']==id, self.getStationData())[0]
         Const.SET('id',id)
