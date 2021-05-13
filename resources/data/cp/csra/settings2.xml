@@ -1,0 +1,56 @@
+    <setting label="エフエムEGAO(岡崎市)" type="bool" id="csra_ce417bf259eaafa480655337a0a10733" default="false" enable="eq(-1,2)"/>
+    <setting label="Pitch FM(刈谷市)" type="bool" id="csra_ec39820c7015e2682d731cbd47aebf15" default="false" enable="eq(-2,2)"/>
+    <setting label="RADIO LOVEAT(豊田市)" type="bool" id="csra_b5f7524ed979f5e7fc5e680217a93e1b" default="false" enable="eq(-3,2)"/>
+    <setting label="FMいずのくに(伊豆の国市)" type="bool" id="csra_b3bd3d6c8b05a0cbaeecde34075b349d" default="false" enable="eq(-4,2)"/>
+    <setting label="CTY-FM(四日市市)" type="bool" id="csra_b7c174efd0e73e2fee17722d1623266e" default="false" enable="eq(-5,2)"/>
+    <setting label="えふえむ・エヌ・ワン(野々市市)" type="bool" id="csra_83072e97b7737dad40d67b8188c0c5cb" default="false" enable="eq(-6,2)"/>
+    <setting label="ハーバーステーション(敦賀市)" type="bool" id="csra_8b187bf1344cc0232a1e984ffa4617fe" default="false" enable="eq(-7,2)"/>
+    <setting label="あづみ野FM(安曇野市)" type="bool" id="csra_16d32b26164207b2636f442e532fae60" default="false" enable="eq(-8,2)"/>
+    <setting label="ラジオ・ミュー(黒部市)" type="bool" id="csra_61da690c65e4932afd3293c646a44640" default="false" enable="eq(-9,2)"/>
+    <setting label="FM丹波(福知山市)" type="bool" id="csra_f3094808937ad76b8c9fa46d6df1394b" default="false" enable="eq(-10,2)"/>
+    <setting label="FM 千里(豊中市)" type="bool" id="csra_41dc3922f4ea51d41bb295a77d5bb30e" default="false" enable="eq(-11,2)"/>
+    <setting label="エフエムわいわい(神戸市)" type="bool" id="csra_ce8eeb60bb6c05311cd49154e6d5d137" default="false" enable="eq(-12,2)"/>
+    <setting label="FMひらかた(枚方市)" type="bool" id="csra_b2501377b6dfa498caa1027f2fb15985" default="false" enable="eq(-13,2)"/>
+    <setting label="FM GENKI(姫路市)" type="bool" id="csra_2a44479153963cbc1a266e5e4f99cbaf" default="false" enable="eq(-14,2)"/>
+    <setting label="FMジャングル(豊岡市)" type="bool" id="csra_e5d4a6658cc2b551f6f9d821518d48af" default="false" enable="eq(-15,2)"/>
+    <setting label="BAN-BANラジオ(加古川市)" type="bool" id="csra_e2a78edc8252e3354720feff8a175b1c" default="false" enable="eq(-16,2)"/>
+    <setting label="YES-fm(大阪市中央区)" type="bool" id="csra_f87007d11bba044145e1f649d42e1dd6" default="false" enable="eq(-17,2)"/>
+    <setting label="エフエムあまがさき(尼崎市)" type="bool" id="csra_8d375cf2c17b87546e882d92e9c975ac" default="false" enable="eq(-18,2)"/>
+    <setting label="FMはしもと(橋本市)" type="bool" id="csra_450d2e9bfb1c72b475a1e408aaa97e7b" default="false" enable="eq(-19,2)"/>
+    <setting label="京都三条ラジオカフェ(京都市中京区)" type="bool" id="csra_75ec5fa18d02b0729be57a125b2d0bd8" default="false" enable="eq(-20,2)"/>
+    <setting label="FMたんご(京丹後市)" type="bool" id="csra_dac48963e2a4110097cfdfb14f928c23" default="false" enable="eq(-21,2)"/>
+    <setting label="FM MOOV KOBE(神戸市)" type="bool" id="csra_43a77edf1a1e302116c14b7810468001" default="false" enable="eq(-22,2)"/>
+    <setting label="Radio Sweet(東近江市)" type="bool" id="csra_f503e67b5d2aa7336e2f7d217b15af97" default="false" enable="eq(-23,2)"/>
+    <setting label="805たんば(丹波市)" type="bool" id="csra_05660b668c8dea4a799db4161a506d66" default="false" enable="eq(-24,2)"/>
+    <setting label="RADIO MIX KYOTO(京都市北区)" type="bool" id="csra_4866dcadbff5d08aa8a34488d4796ebe" default="false" enable="eq(-25,2)"/>
+    <setting label="FMおとくに(乙訓地域)" type="bool" id="csra_1c7d4a2e6d37169c8278cf91415b97c1" default="false" enable="eq(-26,2)"/>
+    <setting label="DARAZ FM(米子市)" type="bool" id="csra_fc801a5b16951df1c710278860442cdc" default="false" enable="eq(-27,2)"/>
+    <setting label="FM高松(高松市)" type="bool" id="csra_b03946e0f7320eee2acd67dc32d060c2" default="false" enable="eq(-28,2)"/>
+    <setting label="FMびざん(徳島市)" type="bool" id="csra_689e7e169833dafa54e52c649ae00a08" default="false" enable="eq(-29,2)"/>
+    <setting label="FM SUN(坂出市)" type="bool" id="csra_936cf790571f2c69a1a5f1f1ce9851ec" default="false" enable="eq(-30,2)"/>
+    <setting label="あまみFM(奄美市)" type="bool" id="csra_e31c90d4a197153a4375c1d7e6777714" default="false" enable="eq(-31,2)"/>
+    <setting label="FMしまばら(島原市)" type="bool" id="csra_5c6697f9ec4eb7179f09258388ddaefe" default="false" enable="eq(-32,2)"/>
+    <setting label="FM KITAQ(北九州市小倉北区)" type="bool" id="csra_62f3fc80c7a95d2ca314450d60ccba04" default="false" enable="eq(-33,2)"/>
+    <setting label="スターコーンFM(築上郡築上町)" type="bool" id="csra_674c86d837c2ed271632c165c3a7c858" default="false" enable="eq(-34,2)"/>
+    <setting label="エフエム ニライ(北谷町)" type="bool" id="csra_699a46db1bbe3609386f765f89463b46" default="false" enable="eq(-35,2)"/>
+    <setting label="FMいしがき(石垣市)" type="bool" id="csra_e56376f6402445852e0952d09628dd9c" default="false" enable="eq(-36,2)"/>
+    <setting label="FMうるま(うるま市)" type="bool" id="csra_c617e27bc320f05c1396569fc4c31ce6" default="false" enable="eq(-37,2)"/>
+    <setting label="FM21(浦添市)" type="bool" id="csra_0e64249d377c7327280ed31d0a35d22f" default="false" enable="eq(-38,2)"/>
+    <setting label="FMレキオ(那覇市)" type="bool" id="csra_d0a9d86778468db1b8296f23b9eaea54" default="false" enable="eq(-39,2)"/>
+    <setting label="FMとよみ(豊見城市)" type="bool" id="csra_9956af6f3856ad2735331b587fa73821" default="false" enable="eq(-40,2)"/>
+    <setting label="コミュニティラジオ天神(福岡市)" type="bool" id="csra_e81c97d6e15ab2eb0010b13dff0b4e1f" default="false" enable="eq(-41,2)"/>
+    <setting label="FMなんじょう(南城市)" type="bool" id="csra_e0f1678531bd03eb67cf1ab3e881e09d" default="false" enable="eq(-42,2)"/>
+    <setting label="FMもとぶ(本部町)" type="bool" id="csra_13f1ba0b35e2c6ba232093215bccf5c8" default="false" enable="eq(-43,2)"/>
+    <setting label="AIR STATION HIBIKI(北九州市)" type="bool" id="csra_1b58261f012e975cf56ed1447d86c020" default="false" enable="eq(-44,2)"/>
+    <setting label="FMくめじま(久米島)" type="bool" id="csra_70da0317ef6b6ac7b4c00e933057a66e" default="false" enable="eq(-45,2)"/>
+    <setting label="FMのべおか(延岡市)" type="bool" id="csra_d2150b20758ebbd95250c9bf01d63434" default="false" enable="eq(-46,2)"/>
+    <setting label="FMぎのわん(宜野湾市)" type="bool" id="csra_374d2909fc5d003d3263573c93c5eda0" default="false" enable="eq(-47,2)"/>
+    <setting label="FMぎんが(鹿児島市)" type="bool" id="csra_dca752914f0c8b37737051dc69a96eff" default="false" enable="eq(-48,2)"/>
+    <setting label="ぎのわんシティFM(宜野湾市)" type="bool" id="csra_432a00946691d32168f905b3f3a405fc" default="false" enable="eq(-49,2)"/>
+    <setting label="FMよなばる(与那原町)" type="bool" id="csra_f115c44d03218c41dde991e9bb88987c" default="false" enable="eq(-50,2)"/>
+    <setting label="ハートFMなんじょう(南城市)" type="bool" id="csra_23509e71431f97fd5d1a35e9f4b68f88" default="false" enable="eq(-51,2)"/>
+    <setting label="fm那覇(那覇市)" type="bool" id="csra_a3e959597dec45c604589c68df1e20a9" default="false" enable="eq(-52,2)"/>
+    <setting label="FMたつごう(大島郡龍郷町)" type="bool" id="csra_de4e70ca95752ac0ce21e3f7aed4175b" default="false" enable="eq(-53,2)"/>
+    <setting label="ちょっくらじお(直方市古町)" type="bool" id="csra_9eb5b3786cf697a38fe6ba6eb0b2338e" default="false" enable="eq(-54,2)"/>
+    <setting label="FMやんばる(名護市)" type="bool" id="csra_26e1a310ed5e49bf25808168015e1e4b" default="false" enable="eq(-55,2)"/>
+    <setting label="()" type="bool" id="csra_26e1a310ed5e49bf25808168015e1e4b" default="false" enable="eq(-56,2)"/>

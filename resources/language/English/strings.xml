@@ -14,9 +14,12 @@
   <string id="30056">Download</string>
   <string id="30057">Add keyword</string>
   <string id="30058">Suspending</string>
-  <string id="30059">No dataし</string>
+  <string id="30059">No data</string>
   <string id="30060">Choose program for download</string>
   <string id="30061">Choose program for keyword</string>
+
+  <string id="30062">No</string>
+  <string id="30063">Yes</string>
 
   <string id="30100">NHK Radio</string>
   <string id="30001">Station</string>
@@ -116,4 +119,86 @@
   <string id="30919">%m/%d(%%s)</string>
   <string id="30920">Mon,Tue,Wed,Thu,Fri,Sat,Sun</string>
 
+
+  <!-- Community Radio -->
+  <string id="30330">Get Program Data</string>
+  <string id="30331">Community(Hokkaido)</string>
+  <string id="30332">Community(Tohoku)</string>
+  <string id="30333">Community(Kanto)</string>
+  <string id="30334">Community(Shinetsu/Hokuriku)</string>
+  <string id="30335">Community(Tokai)</string>
+  <string id="30336">Community(Kinki)</string>
+  <string id="30337">Community(Chugoku/Shikoku)</string>
+  <string id="30338">Community(Kyusyu/Okinawa)</string>
+
+  <!-- Radiko -->
+  <string id="30210">Regions</string>
+  <string id="30218">Prefecture</string>
+
+  <string id="30220">Auto</string>
+  <string id="30211">Hokkaido/Tohoku</string>
+  <string id="30212">Kanto</string>
+  <string id="30213">Hokuriku/Koushinetsu</string>
+  <string id="30214">Tyubu</string>
+  <string id="30215">Kinki</string>
+  <string id="30216">Tyugoku/Shikoku</string>
+  <string id="30217">Kyushu/Okinawa</string>
+
+  <string id="30219">XXX</string><!-- BLK -->
+
+  <string id="30221">Hokkaido</string>
+  <string id="30222">Aomori</string>
+  <string id="30223">Iwate</string>
+  <string id="30224">Miyagi</string>
+  <string id="30225">Akita</string>
+  <string id="30226">Yamagata</string>
+  <string id="30227">Fukushima</string>
+
+  <string id="30228">Ibaraki</string>
+  <string id="30229">Tochigi</string>
+  <string id="30230">Gunma</string>
+  <string id="30231">Saitama</string>
+  <string id="30232">Chiba</string>
+  <string id="30233">Tokyo</string>
+  <string id="30234">Kanagawa</string>
+
+  <string id="30235">Niigata</string>
+  <string id="30236">Toyama</string>
+  <string id="30237">Ishikawa</string>
+  <string id="30238">Fukui</string>
+  <string id="30239">Yamanashi</string>
+  <string id="30240">Nagano</string>
+
+  <string id="30241">Gifu</string>
+  <string id="30242">Shizuoka</string>
+  <string id="30243">Aichi</string>
+  <string id="30244">Mie</string>
+
+  <string id="30245">Shiga</string>
+  <string id="30246">Kyoto</string>
+  <string id="30247">Osaka</string>
+  <string id="30248">Hyougo</string>
+  <string id="30249">Nara</string>
+  <string id="30250">Wakayama</string>
+  
+  <string id="30251">Tottori</string>
+  <string id="30252">Shimane</string>
+  <string id="30253">Okayama</string>
+  <string id="30254">Hiroshima</string>
+  <string id="30255">Yamaguchi</string>
+  <string id="30256">Tokushima</string>
+  <string id="30257">Kagawa</string>
+  <string id="30258">Ehime</string>
+  <string id="30259">Kochi</string>
+
+  <string id="30260">Fukuoka</string>
+  <string id="30261">Saga</string>
+  <string id="30262">Nagasaki</string>
+  <string id="30263">Kumamoto</string>
+  <string id="30264">Oita</string>
+  <string id="30265">Miyazaki</string>
+  <string id="30266">Kagoshima</string>
+  <string id="30267">Okinawa</string>
+
 </strings>
+

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<strings>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> <strings>
   <!--
       strings 30000 thru 30999 reserved for plugins and plugin settings
       strings 31000 thru 31999 reserved for skins
@@ -17,6 +16,9 @@
   <string id="30059">番組情報なし</string>
   <string id="30060">保存する番組を選択してください</string>
   <string id="30061">保存キーワードを設定する番組を選択してください</string>
+
+  <string id="30062">しない</string>
+  <string id="30063">する</string>
 
   <string id="30100">NHKラジオ</string>
   <string id="30001">放送局</string>
@@ -113,5 +115,85 @@
 
   <string id="30919">%m月%d日(%%s)</string>
   <string id="30920">月,火,水,木,金,土,日</string>
+
+  <!-- Community Radio -->
+  <string id="30330">番組表取得</string>
+  <string id="30331">コミュニティ(北海道)</string>
+  <string id="30332">コミュニティ(東北)</string>
+  <string id="30333">コミュニティ(関東)</string>
+  <string id="30334">コミュニティ(信越・北陸)</string>
+  <string id="30335">コミュニティ(東海)</string>
+  <string id="30336">コミュニティ(近畿)</string>
+  <string id="30337">コミュニティ(中国・四国)</string>
+  <string id="30338">コミュニティ(九州・沖縄)</string>
+
+  <!-- Radiko -->
+  <string id="30210">地域</string>
+  <string id="30218">都道府県</string>
+
+  <string id="30220">自動認識</string>
+  <string id="30211">北海道・東北</string>
+  <string id="30212">関東</string>
+  <string id="30213">北陸・甲信越</string>
+  <string id="30214">中部</string>
+  <string id="30215">近畿</string>
+  <string id="30216">中国・四国</string>
+  <string id="30217">九州・沖縄</string>
+
+  <string id="30219">XXX</string><!-- BLK -->
+
+  <string id="30221">北海道</string>
+  <string id="30222">青森</string>
+  <string id="30223">岩手</string>
+  <string id="30224">宮城</string>
+  <string id="30225">秋田</string>
+  <string id="30226">山形</string>
+  <string id="30227">福島</string>
+
+  <string id="30228">茨城</string>
+  <string id="30229">栃木</string>
+  <string id="30230">群馬</string>
+  <string id="30231">埼玉</string>
+  <string id="30232">千葉</string>
+  <string id="30233">東京</string>
+  <string id="30234">神奈川</string>
+
+  <string id="30235">新潟</string>
+  <string id="30236">富山</string>
+  <string id="30237">石川</string>
+  <string id="30238">福井</string>
+  <string id="30239">山梨</string>
+  <string id="30240">長野</string>
+
+  <string id="30241">岐阜</string>
+  <string id="30242">静岡</string>
+  <string id="30243">愛知</string>
+  <string id="30244">三重</string>
+
+  <string id="30245">滋賀</string>
+  <string id="30246">京都</string>
+  <string id="30247">大阪</string>
+  <string id="30248">兵庫</string>
+  <string id="30249">奈良</string>
+  <string id="30250">和歌山</string>
+  
+  <string id="30251">鳥取</string>
+  <string id="30252">島根</string>
+  <string id="30253">岡山</string>
+  <string id="30254">広島</string>
+  <string id="30255">山口</string>
+  <string id="30256">徳島</string>
+  <string id="30257">香川</string>
+  <string id="30258">愛媛</string>
+  <string id="30259">高知</string>
+
+  <string id="30260">福岡</string>
+  <string id="30261">佐賀</string>
+  <string id="30262">長崎</string>
+  <string id="30263">熊本</string>
+  <string id="30264">大分</string>
+  <string id="30265">宮崎</string>
+  <string id="30266">鹿児島</string>
+  <string id="30267">沖縄</string>
 
 </strings>

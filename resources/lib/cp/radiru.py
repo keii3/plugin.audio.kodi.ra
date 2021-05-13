@@ -65,6 +65,8 @@ class Params:
     # 遅延
     DELAY = 40
 
+    STN='radiru_'
+
 
 class Radiru(Params, Jcba):
 
