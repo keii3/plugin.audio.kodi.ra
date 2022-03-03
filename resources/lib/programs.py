@@ -33,7 +33,7 @@ class Params:
         os.makedirs(DATA_PATH)
     # ファイル
     PROGRAM_FILE = os.path.join(Const.DATA_PATH, 'program.json')
-    STATION_FILE = os.path.join(Const.DATA_PATH, 'station.json')
+    STATION_FILE = os.path.join(Const.DATA_PATH, 'station.json')  # 未使用？
     # タイトル標示のテンプレート
     TITLE_KK = '[COLOR khaki]%s %s[/COLOR]'
     TITLE_LG = '[COLOR lightgreen]%s %s[/COLOR]'
@@ -180,7 +180,7 @@ class Programs:
                     buf.append(q)
             s['programs'] = buf
         # ファイルに書き込む
-        write_json(Params.STATION_FILE, self.stations)
+        write_json(Params.PROGRAM_FILE, self.stations)
         # 開始/終了時刻が定義された番組を抽出
         p = list(filter(lambda x: x['ft'] and x['to'], self.programs))
         # 開始/終了時刻のペアから現在の番組情報のハッシュを生成
@@ -240,11 +240,11 @@ class Programs:
                 return False
         except Exception:
             pass
-        return True
+        return False
 
     def show(self):
         # ファイルから読み込む
-        self.stations = read_json(Params.STATION_FILE)
+        self.stations = read_json(Params.PROGRAM_FILE)
         # 放送局表示
         for s in filter(lambda x: self.__showhide(x['id']), self.stations):
             title = '[COLOR white]%s[/COLOR]' % s['name']
