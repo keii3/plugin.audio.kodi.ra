@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 
-# 「コミュニティ放送局一覧 - Wikipedia」 を元にネタを生成するスクリプト
+# 「コミュニティ放送局一覧 - Wikipedia」 を元に，事前にネタを生成するスクリプト
 # 注意: 
 #  /resources/data/cp/jcba/scrape.pyを改造した物です。
 #  サイトの構成(構造？)は，2021/05/01現在の物で動作を確認しています。
+#  実行するには `pip3 install bf4 lxml` が必要かも…
 
 import os
 import urllib
@@ -136,8 +137,8 @@ class wiki(Base):
 
     # ファイルをパースする
     def parse(self, data):
+        print("parse wiki")
         buf1 = []
-        
         i = 0
         divs = BeautifulSoup(data, features='lxml').find_all('table', class_='wikitable sortable')
         for div in divs:
@@ -202,6 +203,10 @@ class wiki(Base):
                 if name == "FMさくだいら": marks2["SR"] = ''; marks2["SP"] = 'Yes'
                 if name == "Pitch FM": marks2["SR"] = ''; marks2["SP"] = 'Yes'
                 if name == "サンシャインFM": marks2["SR"] = ''
+                if name == "コミュニティラジオ天神": marks2["SR"] = ''; marks2["LR"] = 'Yes'  #2021/12/31に変更
+
+                # 特例
+                if name == "コミュニティラジオ天神": name = "COMI×TEN";  # 正式名称は「コミュニティラジオ天神」でも，"COMI×TEN"推し
 
                 # if areaid == 1: print(i, areaid, name, stationname, callsign, frequency, address, output, repeator, marks1, marks2, status)
                 buf1.append({
@@ -229,6 +234,7 @@ class Jcba(Base):
 
     # ファイルをパースする
     def parse(self, data):
+        print("parse Jcba")
         buf1 = []
         i = -1
         divs = BeautifulSoup(data, features='lxml').find_all('div', class_='areaList')
@@ -250,7 +256,7 @@ class Jcba(Base):
                         cal = li.find('script').string
                         cal = re.search('\"(.+)\"', cal).group(0)[1:-1]
                         #print('match: %s' % x.group(0)[1:-1])
-                        print('match: %s' % cal)
+                        print(' match: %s' % cal)
 
                     buf1.append({
                         'id': id,
@@ -273,6 +279,7 @@ class Lisr(Base):
 
     # ファイルをパースする
     def parse(self, data):
+        print("parse Lisr")
 
         #cc = read(self.FILE) # categorychannel読み込み
         if data:
@@ -309,7 +316,7 @@ class Lisr(Base):
 
 class Simul(Base):
 
-    URL = 'http://www.simulradio.info/'
+    URL = 'https://www.simulradio.info/'
     FILE = 'simulradio.xml'
 
     def loadasx(self, url):
@@ -318,18 +325,23 @@ class Simul(Base):
         
         ret = url
         # <ref href="mms://hdv3.nkansai.tv/kiritampo"/>
-        #res = urllib.request.urlopen(url, timeout=20.0)
-        res = urllib.request.urlopen(url)
+        # res = urllib.request.urlopen(url, timeout=20.0)
+        req = urllib.request.Request(url)
+        try: 
+            res = urllib.request.urlopen(req)
+        except urllib.error.HTTPError as e:
+            ret = url + " @" + str(e.code) 
+            return ret
+
         data = res.read()
         res.close()
-        data = data.decode('cp932') # Shift-JIS亜種?
+        # data = data.decode('cp932') # Shift-JIS亜種?
         refs = BeautifulSoup(data, features='lxml').find_all('ref')
         if refs:
             for ref in refs:
                 if not re.search('html$|mp3$', ref['href']):
                     ret = ref['href']
         else:
-            #ret = url + " @" + BeautifulSoup(data, features='lxml').text
             ret = url + " @" + str(res.code)
         return ret
 
@@ -363,6 +375,7 @@ class Simul(Base):
 
     # ファイルをパースする
     def parse(self, data):
+        print("parse Simul")
         buf1 = []
 
         i = -1
@@ -413,7 +426,7 @@ class Simul(Base):
                 streambase = stream
                 stream = self.loadasx(stream)
 
-            print(i, name, place, streamsv, stream)
+            print(" ", i, name, place, streamsv, stream)
             buf1.append({
                 'id': id,
                 'name': '%s(%s)' % (name, place),
@@ -443,6 +456,7 @@ class Marge(Base):
             data = f.read()
         lisr = json.loads(data)
 
+        print("- lisr -------")
         i = 0
         for l in lisr:
             na = re.sub('\(.*\)', '', l['name'])
@@ -495,6 +509,7 @@ class Marge(Base):
             data = f.read()
         jcba = json.loads(data)
 
+        print("jcba-------")
         i = 0
         for l in jcba:
             na = re.sub('\(.*\)', '', l['name']) # JCBA.name
@@ -578,6 +593,7 @@ class Marge(Base):
             data = f.read()
         sr = json.loads(data)
 
+        print("sr-------")
         i = 0
         for l in sr:
             #if l["streamsv"] == "simu" and l["onair"] != "閉局":
@@ -637,7 +653,8 @@ class Marge(Base):
             f.write(json.dumps(base, sort_keys=True, ensure_ascii=False, indent=2))
 
     def mkSetting(self, i, n, buff):
-        buff.append('      <setting label="{name}({place})" type="bool" id="{id}" default="false" enable="eq({i},2)"/>'.format(
+        #buff.append('      <setting label="{name}({place})" type="bool" id="{id}" default="false" enable="eq({i},true)"/>'.format(
+        buff.append('      <setting label="{name}({place})" type="bool" id="{id}" default="false" />'.format(
             id = (
                 n['marks2']['LR'] if n['marks2']['LR'] else
                 n['marks2']['SJ'] if n['marks2']['SJ'] else
@@ -665,6 +682,7 @@ class Marge(Base):
         return buff
 
     def listout(self):
+        print("listout")
         data = ''
         with open(self.FBASE, 'r') as f:
             data = f.read()
@@ -751,11 +769,12 @@ class Marge(Base):
                     '--'
                 )
             ))
-            print(i, n['areaid'], n['name'], n['marks2']['LR'] if n['marks2']['LR'] else n['marks2']['SJ'] if n['marks2']['SJ'] else n['marks2']['SR'] if n['marks2']['SR'] else '--')
+            print(" ", i, n['areaid'], n['name'], n['marks2']['LR'] if n['marks2']['LR'] else n['marks2']['SJ'] if n['marks2']['SJ'] else n['marks2']['SR'] if n['marks2']['SR'] else '--')
 
-        return buf2, buf3
+        return buf201, buf3
 
     def marge(self):
+        print("marge")
         self.lisr()
         self.jcba()
         self.sr()
@@ -764,7 +783,7 @@ class Marge(Base):
 
 if __name__ == '__main__':
 
-    flg = False # "True" で，Webからネタ取得を強制
+    flg = True # "True" で，Webからネタ取得を強制
 
     buf1 = wiki().run(flg)
     with open(Base.FBASE, 'w') as f:

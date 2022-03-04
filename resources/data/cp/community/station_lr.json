@@ -72,6 +72,14 @@
     "url": ""
   },
   {
+    "id": "lisr_30034",
+    "logo_large": "http://listenradio.jp/img/rslogo/30034s.png",
+    "name": "ラジオカロスサッポロ(北海道札幌市中央区)",
+    "onair": "北海道札幌市中央区にあるコミュニティFMラジオ局です。",
+    "stream": "http://mtist.as.smartstream.ne.jp/30034/livestream/playlist.m3u8",
+    "url": ""
+  },
+  {
     "id": "lisr_30090",
     "logo_large": "http://listenradio.jp/img/rslogo/30090s.png",
     "name": "FMアップル(北海道札幌市豊平区平岸)",
@@ -322,7 +330,7 @@
   {
     "id": "lisr_30026",
     "logo_large": "http://listenradio.jp/img/rslogo/30026s.png",
-    "name": "77.5LivelyFM(埼玉県朝霞市)",
+    "name": "775ライブリーFM(埼玉県朝霞市)",
     "onair": "埼玉県朝霞市にあるコミュニティFMラジオ局です。",
     "stream": "http://mtist.as.smartstream.ne.jp/30026/livestream/playlist.m3u8",
     "url": ""
@@ -456,14 +464,6 @@
     "url": ""
   },
   {
-    "id": "lisr_30062",
-    "logo_large": "http://listenradio.jp/img/rslogo/30062s.png",
-    "name": "Ciao!(静岡県熱海市)",
-    "onair": "静岡県熱海市にあるコミュニティFMラジオ局です。",
-    "stream": "http://mtist.as.smartstream.ne.jp/30062/livestream/playlist.m3u8",
-    "url": ""
-  },
-  {
     "id": "lisr_30004",
     "logo_large": "http://listenradio.jp/img/rslogo/30004s.png",
     "name": "MID FM(愛知県名古屋市東区)",
@@ -501,14 +501,6 @@
     "name": "FMおとくに(京都府乙訓地域)",
     "onair": "京都府乙訓地域にあるコミュニティFMラジオ局です。",
     "stream": "http://mtist.as.smartstream.ne.jp/30063/livestream/playlist.m3u8",
-    "url": ""
-  },
-  {
-    "id": "lisr_30049",
-    "logo_large": "http://listenradio.jp/img/rslogo/30049s.png",
-    "name": "エフエムひらかた(大阪府枚方市)",
-    "onair": "大阪府枚方市にあるコミュニティFMラジオ局です。",
-    "stream": "http://mtist.as.smartstream.ne.jp/30049/livestream/playlist.m3u8",
     "url": ""
   },
   {
@@ -592,6 +584,14 @@
     "url": ""
   },
   {
+    "id": "lisr_30077",
+    "logo_large": "http://listenradio.jp/img/rslogo/30077s.png",
+    "name": "COMI×TEN(福岡市中央区)",
+    "onair": "福岡市中央区にあるコミュニティFMラジオ局です。",
+    "stream": "http://mtist.as.smartstream.ne.jp/30077/livestream/playlist.m3u8",
+    "url": ""
+  },
+  {
     "id": "lisr_30085",
     "logo_large": "http://listenradio.jp/img/rslogo/30085s.png",
     "name": "CHOKUラジ！(福岡県直方市)",
@@ -621,6 +621,14 @@
     "name": "あまみエフエム(鹿児島県奄美市)",
     "onair": "鹿児島県奄美市にあるコミュニティFMラジオ局です。",
     "stream": "http://mtist.as.smartstream.ne.jp/30054/livestream/playlist.m3u8",
+    "url": ""
+  },
+  {
+    "id": "lisr_30080",
+    "logo_large": "http://listenradio.jp/img/rslogo/30080s.png",
+    "name": "せとラジ(鹿児島県大島郡瀬戸内町)",
+    "onair": "鹿児島県大島郡瀬戸内町にあるコミュニティFMラジオ局です。",
+    "stream": "http://mtist.as.smartstream.ne.jp/30080/livestream/playlist.m3u8",
     "url": ""
   },
   {

@@ -191,13 +191,11 @@ class Jcba(Params):
                     items = sj['items']
                     now = datetime.now()
 
-                    idx = 0
                     for s in items:
-                        idx += 1
                         if datetime.strptime(s['start']['dateTime'][0:19], '%Y-%m-%dT%H:%M:%S') < now < datetime.strptime(s['end']['dateTime'][0:19], '%Y-%m-%dT%H:%M:%S'):
                             pp = [s]
                             break
-                    pp.append(items[idx])
+                    pp.append(items[-1])
                     # log('pp: %s' % pp)
 
                     for p in pp:

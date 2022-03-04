@@ -234,9 +234,9 @@
     "url": "http://fm840.com/"
   },
   {
-    "calendar": "",
+    "calendar": "radiokawagoe.jimu@gmail.com",
     "id": "jcba_126",
-    "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2021/02/91a3a47b5ff79612415eb4a900b53872.jpg",
+    "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2021/02/f85cf536fb608ed367d7747f7899ed0c.jpg",
     "name": "ラジオ川越(埼玉県)",
     "onair": "川越に想いがある人たちで一緒につくる‘みんな’のラジオです。ラジオかわごえを聴いてください！",
     "stream": "https://musicbird-hls.leanstream.co/musicbird/JCB126.stream/playlist.m3u8",
@@ -325,6 +325,15 @@
   },
   {
     "calendar": "",
+    "id": "jcba_051",
+    "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2021/08/a4e0562444e4154bb08b4789b90a103a.jpg",
+    "name": "渋谷のラジオ(東京都)",
+    "onair": "ダイバーシティ、シブヤシティ。渋谷にまつわる多彩なパーソナリティによる地元密着の番組を放送中！",
+    "stream": "https://musicbird-hls.leanstream.co/musicbird/JCB051.stream/playlist.m3u8",
+    "url": "https://shiburadi.com/"
+  },
+  {
+    "calendar": "",
     "id": "jcba_015",
     "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area03_fmblueshonan.jpg",
     "name": "FMブルー湘南(神奈川県)",
@@ -396,9 +405,9 @@
     "url": "http://www.fm-salus.jp/index.php"
   },
   {
-    "calendar": "",
+    "calendar": "fmkofu.gijyutu@gmail.com",
     "id": "jcba_025",
-    "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area03_fmkofu.png",
+    "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2015/06/52f0f7a3a7724384878545ba8dd94820.png",
     "name": "エフエム甲府(山梨県)",
     "onair": "山梨学院大学キャンパス内にある放送局。学生が制作した番組、Ｊ２ヴァンフォーレ甲府生中継も放送中。",
     "stream": "https://musicbird-hls.leanstream.co/musicbird/JCB025.stream/playlist.m3u8",
@@ -532,6 +541,15 @@
   },
   {
     "calendar": "",
+    "id": "jcba_131",
+    "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2021/11/812b3177c6cf26e8b4ddabec4b369c67.jpg",
+    "name": "高ボッチ高原FM(長野県)",
+    "onair": "",
+    "stream": "https://musicbird-hls.leanstream.co/musicbird/JCB131.stream/playlist.m3u8",
+    "url": "https://fm894.jp/"
+  },
+  {
+    "calendar": "",
     "id": "jcba_043",
     "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area05_fmpipi.jpg",
     "name": "FMPiPi(岐阜県)",
@@ -648,6 +666,24 @@
     "url": "https://www.fmito.com/"
   },
   {
+    "calendar": "jcbasimulciao796@gmail.com",
+    "id": "jcba_031",
+    "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2021/06/0c35906fd82ad18e2048ea743f66a574.jpg",
+    "name": "Ciao！(静岡県)",
+    "onair": "日本有数の温泉観光地、静岡県熱海市から、県境を跨いだ神奈川県湯河原町・真鶴町までエリア放送！",
+    "stream": "https://musicbird-hls.leanstream.co/musicbird/JCB031.stream/playlist.m3u8",
+    "url": "http://www.ciao796.com/"
+  },
+  {
+    "calendar": "",
+    "id": "jcba_056",
+    "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2021/10/848732a9379edb470948ebbb7350f3ff.jpg",
+    "name": "FMいずのくに(静岡県)",
+    "onair": "FMいずのくには「元気起爆Radio！」街の活力を創造する情報を7時～21時まで発信しています。",
+    "stream": "https://musicbird-hls.leanstream.co/musicbird/JCB056.stream/playlist.m3u8",
+    "url": "https://www.fmizunokuni.jp/"
+  },
+  {
     "calendar": "",
     "id": "jcba_049",
     "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area05_fmnanami.png",
@@ -666,7 +702,7 @@
     "url": "http://842fm.jp/"
   },
   {
-    "calendar": "radiosanq845@gmail.com",
+    "calendar": "",
     "id": "jcba_047",
     "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area05_radiosanq.jpg",
     "name": "RADIO SANQ(愛知県)",
@@ -686,8 +722,8 @@
   {
     "calendar": "861inabee@gmail.com",
     "id": "jcba_050",
-    "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area05_fminabee.png",
-    "name": "いなBee(三重県)",
+    "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2015/06/d9fc5cbcfb36f3178884bed391ca6ee0.jpg",
+    "name": "いなべエフエム(三重県)",
     "onair": "三重県最北端の緑豊かな街いなべ市。地元の情報から防災情報まで地域密着型ラジオ局として24時間放送中",
     "stream": "https://musicbird-hls.leanstream.co/musicbird/JCB050.stream/playlist.m3u8",
     "url": "http://fm861.com/"
@@ -1084,7 +1120,7 @@
     "id": "jcba_093",
     "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area10_dreamsfm.png",
     "name": "DreamsFM(福岡県)",
-    "onair": "「まちに夢をひろげよう」を掲げ、地域情報や久留米市の防災情報発信を行っています。",
+    "onair": "「まちに夢をひろげよう」をコンセプトに地域情報や久留米市・鳥栖市・大刀洗町の防災情報の発信を行っています。",
     "stream": "https://musicbird-hls.leanstream.co/musicbird/JCB093.stream/playlist.m3u8",
     "url": "http://www.dreamsfm.co.jp/"
   },
@@ -1136,7 +1172,7 @@
   {
     "calendar": "noasfm01@gmail.com",
     "id": "jcba_089",
-    "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area10_noas-fm.png",
+    "logo_large": "https://www.jcbasimul.com/wp2018/wp-content/uploads/2015/06/6d5672a94d6d84f25b0694ab278cf020.jpg",
     "name": "NOASFM(大分県)",
     "onair": "大分県中津市より大分県北部／福岡県京築エリアをダッシュ！地域密着で24時間365日放送中です！",
     "stream": "https://musicbird-hls.leanstream.co/musicbird/JCB089.stream/playlist.m3u8",
