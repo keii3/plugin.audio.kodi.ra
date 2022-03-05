@@ -1121,7 +1121,7 @@ img.emoji {
 									<h3>ラジオ川越 / 埼玉県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
-																					<img src="https://www.jcbasimul.com/wp2018/wp-content/uploads/2021/02/91a3a47b5ff79612415eb4a900b53872.jpg" alt="ラジオ川越">
+																					<img src="https://www.jcbasimul.com/wp2018/wp-content/uploads/2021/02/f85cf536fb608ed367d7747f7899ed0c.jpg" alt="ラジオ川越">
 																					</div>
 										<div class="text"><p>川越に想いがある人たちで一緒につくる‘みんな’のラジオです。ラジオかわごえを聴いてください！</p>
 </div>
@@ -1131,7 +1131,26 @@ img.emoji {
 													<a href="https://radiokawagoe.com/" target="_blank"><span>オフィシャルサイト</span></a>
 												</div>
 																							
-																						
+																							<script>
+												aryCalendarId['1348']	= "radiokawagoe.jimu@gmail.com";
+												</script>
+												
+												<div id="1348" class="post_id"></div>
+												
+												<div id="program_box1348" class="program_box">
+													<div class="ttl" id="ttl_program_now1348">現在放送中の番組</div>
+													<div class="data">
+														<div class="program_date" id="program_now_date1348">データを取得中です。</div>
+														<div id="program_now1348">番組データを取得中です。</div>
+													</div>
+													
+													<div class="ttl" id="ttl_program_next1348">次の番組</div>
+													<div class="data">
+														<div class="program_date" id="program_next_date1348">データを取得中です。</div>
+														<div id="program_next1348">番組データを取得中です。</div>
+													</div>
+												</div>
+																							
 											<div class="rplayer" id="JCB126"><span></span></div>
 											<div class="card_link" id="https://www.jcbasimul.com/radio/1348/"></div>
 											<div class="listenNotice"></div>
@@ -1424,7 +1443,33 @@ img.emoji {
 										</div>
 																											</ul>
 																									<ul class="cf">
-																	<li name="pref14" value="FMブルー湘南 / 神奈川県">
+																	<li name="pref13_99" value="渋谷のラジオ / 東京都">
+									<h3>渋谷のラジオ / 東京都</h3>
+									<div class="stDetail cf">
+										<div class="bnr">
+																					<img src="https://www.jcbasimul.com/wp2018/wp-content/uploads/2021/08/a4e0562444e4154bb08b4789b90a103a.jpg" alt="渋谷のラジオ">
+																					</div>
+										<div class="text"><p>ダイバーシティ、シブヤシティ。渋谷にまつわる多彩なパーソナリティによる地元密着の番組を放送中！</p>
+</div>
+									</div>
+																			<div class="radio tglContents">
+																							<div class="officialLink">
+													<a href="https://shiburadi.com/" target="_blank"><span>オフィシャルサイト</span></a>
+												</div>
+																							
+																						
+											<div class="rplayer" id="JCB051"><span></span></div>
+											<div class="card_link" id="https://www.jcbasimul.com/radio/1400/"></div>
+											<div class="listenNotice"></div>
+										</div>
+										<div class="listenBtn tglBtn btn_listen" onclick="ga('send', 'event', 'listen_button', 'click', '渋谷のラジオ / 東京都', 1, {'nonInteraction': 1});">
+											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_listen.png" width="90" alt="LISTEN♪">
+										</div>
+										
+										<div class="listenBtn tglBtn current btn_close" style="display:none;">
+											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
+										</div>
+																																	<li name="pref14" value="FMブルー湘南 / 神奈川県">
 									<h3>FMブルー湘南 / 神奈川県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
@@ -1476,7 +1521,9 @@ img.emoji {
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																																	<li name="pref14_99" value="FM湘南ナパサ / 神奈川県">
+																											</ul>
+																									<ul class="cf">
+																	<li name="pref14_99" value="FM湘南ナパサ / 神奈川県">
 									<h3>FM湘南ナパサ / 神奈川県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
@@ -1521,9 +1568,7 @@ img.emoji {
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																											</ul>
-																									<ul class="cf">
-																	<li name="pref14_99" value="FMおだわら / 神奈川県">
+																																	<li name="pref14_99" value="FMおだわら / 神奈川県">
 									<h3>FMおだわら / 神奈川県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
@@ -1575,7 +1620,9 @@ img.emoji {
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																																	<li name="pref14_99" value="FMやまと / 神奈川県">
+																											</ul>
+																									<ul class="cf">
+																	<li name="pref14_99" value="FMやまと / 神奈川県">
 									<h3>FMやまと / 神奈川県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
@@ -1601,9 +1648,7 @@ img.emoji {
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																											</ul>
-																									<ul class="cf">
-																	<li name="pref14_99" value="レディオ湘南 / 神奈川県">
+																																	<li name="pref14_99" value="レディオ湘南 / 神奈川県">
 									<h3>レディオ湘南 / 神奈川県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
@@ -1675,11 +1720,13 @@ img.emoji {
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																																	<li name="pref19" value="エフエム甲府 / 山梨県">
+																											</ul>
+																									<ul class="cf">
+																	<li name="pref19" value="エフエム甲府 / 山梨県">
 									<h3>エフエム甲府 / 山梨県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
-																					<img src="https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area03_fmkofu.png" alt="エフエム甲府">
+																					<img src="https://www.jcbasimul.com/wp2018/wp-content/uploads/2015/06/52f0f7a3a7724384878545ba8dd94820.png" alt="エフエム甲府">
 																					</div>
 										<div class="text"><p>山梨学院大学キャンパス内にある放送局。学生が制作した番組、Ｊ２ヴァンフォーレ甲府生中継も放送中。</p>
 </div>
@@ -1689,7 +1736,26 @@ img.emoji {
 													<a href="http://www.fm-kofu.co.jp/" target="_blank"><span>オフィシャルサイト</span></a>
 												</div>
 																							
-																						
+																							<script>
+												aryCalendarId['766']	= "fmkofu.gijyutu@gmail.com";
+												</script>
+												
+												<div id="766" class="post_id"></div>
+												
+												<div id="program_box766" class="program_box">
+													<div class="ttl" id="ttl_program_now766">現在放送中の番組</div>
+													<div class="data">
+														<div class="program_date" id="program_now_date766">データを取得中です。</div>
+														<div id="program_now766">番組データを取得中です。</div>
+													</div>
+													
+													<div class="ttl" id="ttl_program_next766">次の番組</div>
+													<div class="data">
+														<div class="program_date" id="program_next_date766">データを取得中です。</div>
+														<div id="program_next766">番組データを取得中です。</div>
+													</div>
+												</div>
+																							
 											<div class="rplayer" id="JCB025"><span></span></div>
 											<div class="card_link" id="https://www.jcbasimul.com/radio/766/"></div>
 											<div class="listenNotice"></div>
@@ -1701,9 +1767,7 @@ img.emoji {
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																											</ul>
-																									<ul class="cf">
-																	<li name="pref19_99" value="FMふじやま / 山梨県">
+																																	<li name="pref19_99" value="FMふじやま / 山梨県">
 									<h3>FMふじやま / 山梨県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
@@ -1793,7 +1857,9 @@ img.emoji {
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																																	<li name="pref19_99" value="ＦＭ八ヶ岳 / 山梨県">
+																											</ul>
+																									<ul class="cf">
+																	<li name="pref19_99" value="ＦＭ八ヶ岳 / 山梨県">
 									<h3>ＦＭ八ヶ岳 / 山梨県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
@@ -1820,9 +1886,9 @@ img.emoji {
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																											</ul>
-																							
-														
+																																
+															</ul>
+															
 																	</div>
 				</div>
 				<div class="area shinetsu">
@@ -2125,9 +2191,36 @@ SNSもチェックしてね！</p>
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																																	
-															</ul>
-															
+																																		<li name="pref20_99" value="高ボッチ高原FM / 長野県">
+									<h3>高ボッチ高原FM / 長野県</h3>
+									<div class="stDetail cf">
+										<div class="bnr">
+																					<img src="https://www.jcbasimul.com/wp2018/wp-content/uploads/2021/11/812b3177c6cf26e8b4ddabec4b369c67.jpg" alt="高ボッチ高原FM">
+																					</div>
+										<div class="text"><p>信州、日本、世界の中心の「高ボッチ高原FM」に<br />
+インターネット放送を通じてみなさん繋がりましょう～</p>
+</div>
+									</div>
+																			<div class="radio tglContents">
+																							<div class="officialLink">
+													<a href="https://fm894.jp/" target="_blank"><span>オフィシャルサイト</span></a>
+												</div>
+												
+																						
+											<div class="rplayer" id="JCB131"><span></span></div>
+											<div class="card_link" id="https://www.jcbasimul.com/radio/1412/"></div>
+											<div class="listenNotice"></div>
+										</div>
+										<div class="listenBtn tglBtn btn_listen" onclick="ga('send', 'event', 'listen_button', 'click', '高ボッチ高原FM / 長野県', 1, {'nonInteraction': 1});">
+											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_listen.png" width="90" alt="LISTEN♪">
+										</div>
+										
+										<div class="listenBtn tglBtn current btn_close" style="display:none;">
+											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
+										</div>
+																												</ul>
+																							
+														
 																	</div>
 				</div>
 				<div class="area tokai">
@@ -2544,7 +2637,80 @@ SNSもチェックしてね！</p>
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																																	<li name="pref23" value="エフエム　ななみ / 愛知県">
+																																	<li name="pref22_99" value="Ciao！ / 静岡県">
+									<h3>Ciao！ / 静岡県</h3>
+									<div class="stDetail cf">
+										<div class="bnr">
+																					<img src="https://www.jcbasimul.com/wp2018/wp-content/uploads/2021/06/0c35906fd82ad18e2048ea743f66a574.jpg" alt="Ciao！">
+																					</div>
+										<div class="text"><p>日本有数の温泉観光地、静岡県熱海市から、県境を跨いだ神奈川県湯河原町・真鶴町までエリア放送！</p>
+</div>
+									</div>
+																			<div class="radio tglContents">
+																							<div class="officialLink">
+													<a href="http://www.ciao796.com/" target="_blank"><span>オフィシャルサイト</span></a>
+												</div>
+																							
+																							<script>
+												aryCalendarId['797']	= "jcbasimulciao796@gmail.com";
+												</script>
+												
+												<div id="797" class="post_id"></div>
+												
+												<div id="program_box797" class="program_box">
+													<div class="ttl" id="ttl_program_now797">現在放送中の番組</div>
+													<div class="data">
+														<div class="program_date" id="program_now_date797">データを取得中です。</div>
+														<div id="program_now797">番組データを取得中です。</div>
+													</div>
+													
+													<div class="ttl" id="ttl_program_next797">次の番組</div>
+													<div class="data">
+														<div class="program_date" id="program_next_date797">データを取得中です。</div>
+														<div id="program_next797">番組データを取得中です。</div>
+													</div>
+												</div>
+																							
+											<div class="rplayer" id="JCB031"><span></span></div>
+											<div class="card_link" id="https://www.jcbasimul.com/radio/797/"></div>
+											<div class="listenNotice"></div>
+										</div>
+										<div class="listenBtn tglBtn btn_listen" onclick="ga('send', 'event', 'listen_button', 'click', 'Ciao！ / 静岡県', 1, {'nonInteraction': 1});">
+											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_listen.png" width="90" alt="LISTEN♪">
+										</div>
+										
+										<div class="listenBtn tglBtn current btn_close" style="display:none;">
+											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
+										</div>
+																																	<li name="pref22_99" value="FMいずのくに / 静岡県">
+									<h3>FMいずのくに / 静岡県</h3>
+									<div class="stDetail cf">
+										<div class="bnr">
+																					<img src="https://www.jcbasimul.com/wp2018/wp-content/uploads/2021/10/848732a9379edb470948ebbb7350f3ff.jpg" alt="FMいずのくに">
+																					</div>
+										<div class="text"><p>FMいずのくには「元気起爆Radio！」街の活力を創造する情報を7時～21時まで発信しています。</p>
+</div>
+									</div>
+																			<div class="radio tglContents">
+																							<div class="officialLink">
+													<a href="https://www.fmizunokuni.jp/" target="_blank"><span>オフィシャルサイト</span></a>
+												</div>
+																							
+																						
+											<div class="rplayer" id="JCB056"><span></span></div>
+											<div class="card_link" id="https://www.jcbasimul.com/radio/1409/"></div>
+											<div class="listenNotice"></div>
+										</div>
+										<div class="listenBtn tglBtn btn_listen" onclick="ga('send', 'event', 'listen_button', 'click', 'FMいずのくに / 静岡県', 1, {'nonInteraction': 1});">
+											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_listen.png" width="90" alt="LISTEN♪">
+										</div>
+										
+										<div class="listenBtn tglBtn current btn_close" style="display:none;">
+											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
+										</div>
+																											</ul>
+																									<ul class="cf">
+																	<li name="pref23" value="エフエム　ななみ / 愛知県">
 									<h3>エフエム　ななみ / 愛知県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
@@ -2596,9 +2762,7 @@ SNSもチェックしてね！</p>
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																											</ul>
-																									<ul class="cf">
-																	<li name="pref23_99" value="RADIO SANQ / 愛知県">
+																																	<li name="pref23_99" value="RADIO SANQ / 愛知県">
 									<h3>RADIO SANQ / 愛知県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
@@ -2612,26 +2776,7 @@ SNSもチェックしてね！</p>
 													<a href="http://845.fm/" target="_blank"><span>オフィシャルサイト</span></a>
 												</div>
 																							
-																							<script>
-												aryCalendarId['804']	= "radiosanq845@gmail.com";
-												</script>
-												
-												<div id="804" class="post_id"></div>
-												
-												<div id="program_box804" class="program_box">
-													<div class="ttl" id="ttl_program_now804">現在放送中の番組</div>
-													<div class="data">
-														<div class="program_date" id="program_now_date804">データを取得中です。</div>
-														<div id="program_now804">番組データを取得中です。</div>
-													</div>
-													
-													<div class="ttl" id="ttl_program_next804">次の番組</div>
-													<div class="data">
-														<div class="program_date" id="program_next_date804">データを取得中です。</div>
-														<div id="program_next804">番組データを取得中です。</div>
-													</div>
-												</div>
-																							
+																						
 											<div class="rplayer" id="JCB047"><span></span></div>
 											<div class="card_link" id="https://www.jcbasimul.com/radio/804/"></div>
 											<div class="listenNotice"></div>
@@ -2643,7 +2788,9 @@ SNSもチェックしてね！</p>
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																																	<li name="pref23_99" value="i-wave / 愛知県">
+																											</ul>
+																									<ul class="cf">
+																	<li name="pref23_99" value="i-wave / 愛知県">
 									<h3>i-wave / 愛知県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
@@ -2669,11 +2816,11 @@ SNSもチェックしてね！</p>
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																																	<li name="pref24" value="いなBee / 三重県">
-									<h3>いなBee / 三重県</h3>
+																																	<li name="pref24" value="いなべエフエム / 三重県">
+									<h3>いなべエフエム / 三重県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
-																					<img src="https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area05_fminabee.png" alt="いなBee">
+																					<img src="https://www.jcbasimul.com/wp2018/wp-content/uploads/2015/06/d9fc5cbcfb36f3178884bed391ca6ee0.jpg" alt="いなべエフエム">
 																					</div>
 										<div class="text"><p>三重県最北端の緑豊かな街いなべ市。地元の情報から防災情報まで地域密着型ラジオ局として24時間放送中</p>
 </div>
@@ -2707,16 +2854,14 @@ SNSもチェックしてね！</p>
 											<div class="card_link" id="https://www.jcbasimul.com/radio/802/"></div>
 											<div class="listenNotice"></div>
 										</div>
-										<div class="listenBtn tglBtn btn_listen" onclick="ga('send', 'event', 'listen_button', 'click', 'いなBee / 三重県', 1, {'nonInteraction': 1});">
+										<div class="listenBtn tglBtn btn_listen" onclick="ga('send', 'event', 'listen_button', 'click', 'いなべエフエム / 三重県', 1, {'nonInteraction': 1});">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_listen.png" width="90" alt="LISTEN♪">
 										</div>
 										
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																											</ul>
-																									<ul class="cf">
-																	<li name="pref24_99" value="Suzuka Voice FM 78.3MHz / 三重県">
+																																	<li name="pref24_99" value="Suzuka Voice FM 78.3MHz / 三重県">
 									<h3>Suzuka Voice FM 78.3MHz / 三重県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
@@ -2763,9 +2908,9 @@ SNSもチェックしてね！</p>
 										<div class="listenBtn tglBtn current btn_close" style="display:none;">
 											<img src="https://www.jcbasimul.com/wp2018/wp-content/themes/jcba2018_ver03/shared/img/btn_close.png" width="90" alt="CLOSE">
 										</div>
-																																
-															</ul>
-															
+																											</ul>
+																							
+														
 																	</div>
 				</div>
 				<div class="area hokuriku">
@@ -4217,7 +4362,7 @@ SNSもチェックしてね！</p>
 										<div class="bnr">
 																					<img src="https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area10_dreamsfm.png" alt="DreamsFM">
 																					</div>
-										<div class="text"><p>「まちに夢をひろげよう」を掲げ、地域情報や久留米市の防災情報発信を行っています。</p>
+										<div class="text"><p>「まちに夢をひろげよう」をコンセプトに地域情報や久留米市・鳥栖市・大刀洗町の防災情報の発信を行っています。</p>
 </div>
 									</div>
 																			<div class="radio tglContents">
@@ -4451,7 +4596,7 @@ SNSもチェックしてね！</p>
 									<h3>NOASFM / 大分県</h3>
 									<div class="stDetail cf">
 										<div class="bnr">
-																					<img src="https://www.jcbasimul.com/wp2018/wp-content/uploads/2018/03/area10_noas-fm.png" alt="NOASFM">
+																					<img src="https://www.jcbasimul.com/wp2018/wp-content/uploads/2015/06/6d5672a94d6d84f25b0694ab278cf020.jpg" alt="NOASFM">
 																					</div>
 										<div class="text"><p>大分県中津市より大分県北部／福岡県京築エリアをダッシュ！地域密着で24時間365日放送中です！</p>
 </div>
@@ -4579,7 +4724,7 @@ SNSもチェックしてね！</p>
 </body>
 </html>
 
-<!-- Dynamic page generated in 0.295 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2021-05-10 17:17:28 -->
+<!-- Dynamic page generated in 0.271 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2022-03-05 11:37:58 -->
 
 <!-- super cache -->

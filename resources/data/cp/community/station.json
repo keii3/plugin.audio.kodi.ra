@@ -34,7 +34,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_44e73acc295a45dd644dd6d45200ee0f",
+      "SR": "simu_f1e288f1bc094defde080438e3c54c7b",
       "TR": "Yes",
       "US": "",
       "YL": ""
@@ -57,7 +57,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_46a10a4071bd78374b9a42c6b90d18c0",
+      "SR": "simu_63777eb4b89f838feb19fd2cbcb2fb4d",
       "TR": "Yes",
       "US": "",
       "YL": ""
@@ -80,7 +80,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_90ecaee90182f1272470e2e5a6459f89",
+      "SR": "simu_b5905b7e418189b57dd40a6222655295",
       "TR": "Yes",
       "US": "",
       "YL": ""
@@ -149,7 +149,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_5b685603aad40a682691382828ac5060",
+      "SR": "simu_bd247cbeb90ee9c0d828f5b5c2ec907b",
       "TR": "",
       "US": "",
       "YL": "Yes"
@@ -172,7 +172,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_79552ae7ee527e23283e3aafc0fe4f36",
+      "SR": "simu_81cdd92e4b0bed02594732bfeaf27e71",
       "TR": "Yes",
       "US": "",
       "YL": ""
@@ -191,14 +191,14 @@
     "marks1": 1,
     "marks2": {
       "FT": "",
-      "LR": "",
+      "LR": "lisr_30034",
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_09b6903d073ac5690a2632849bea66e4",
+      "SR": "simu_73e6f81e4031f7db3f1eb6ace96e405f",
       "TR": "Yes",
       "US": "",
-      "YL": ""
+      "YL": "Yes"
     },
     "name": "ラジオカロスサッポロ",
     "output": "20",
@@ -218,7 +218,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_ba870d02f511814e3e6c7185af07f310",
+      "SR": "simu_f495ce4e7ed80fe847f28b75165d3d56",
       "TR": "Yes",
       "US": "",
       "YL": ""
@@ -356,7 +356,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_d2b6a8eb2619c1b958b4c85ed8cf35a4",
+      "SR": "lisr",
       "TR": "Yes",
       "US": "",
       "YL": ""
@@ -448,7 +448,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_336ced927e921326ee838fb4ca0d955c",
+      "SR": "simu_349185108e49340e74c92e992c67e340",
       "TR": "",
       "US": "",
       "YL": ""
@@ -572,7 +572,7 @@
     "output": "20",
     "repeator": 0,
     "stationname": "FMオホーツク",
-    "status": 0
+    "status": 2
   },
   {
     "address": "中標津町",
@@ -694,7 +694,7 @@
     "areaid": 2,
     "callsign": "JOZZ2AA-FM",
     "frequency": "76.2",
-    "marks1": 140,
+    "marks1": 12,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -717,7 +717,7 @@
     "areaid": 2,
     "callsign": "JOZZ2AB-FM",
     "frequency": "76.2",
-    "marks1": 197,
+    "marks1": 69,
     "marks2": {
       "FT": "",
       "LR": "lisr_30007",
@@ -740,7 +740,7 @@
     "areaid": 2,
     "callsign": "JOZZ2AC-FM",
     "frequency": "76.2",
-    "marks1": 132,
+    "marks1": 4,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -770,7 +770,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_679fca1bab0d8c60e77be0899b096845",
+      "SR": "simu_03ba943b00954b6a4c250cbb6123d4a3",
       "TR": "Yes",
       "US": "",
       "YL": ""
@@ -786,14 +786,14 @@
     "areaid": 2,
     "callsign": "JOZZ2AE-FM",
     "frequency": "76.2",
-    "marks1": 200,
+    "marks1": 72,
     "marks2": {
       "FT": "Yes",
       "LR": "lisr_30009",
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_7e6d554dba0f5799e06b450c3dd734eb",
+      "SR": "simu_b62816f41ffc1f1900a76b65369f7184",
       "TR": "Yes",
       "US": "",
       "YL": ""
@@ -809,7 +809,7 @@
     "areaid": 2,
     "callsign": "JOZZ2AF-FM",
     "frequency": "78.1",
-    "marks1": 132,
+    "marks1": 4,
     "marks2": {
       "FT": "Yes",
       "LR": "lisr_30056",
@@ -839,7 +839,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_0107cd7b39ea8dbc78bebfb8317e03f9",
+      "SR": "simu_cbf27530e9c709286b8589b09854e265",
       "TR": "",
       "US": "",
       "YL": ""
@@ -855,7 +855,7 @@
     "areaid": 2,
     "callsign": "JOZZ2AH-FM",
     "frequency": "76.2",
-    "marks1": 76,
+    "marks1": 72,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -878,7 +878,7 @@
     "areaid": 2,
     "callsign": "JOZZ2AI-FM",
     "frequency": "76.9",
-    "marks1": 197,
+    "marks1": 69,
     "marks2": {
       "FT": "",
       "LR": "lisr_30017",
@@ -901,7 +901,7 @@
     "areaid": 2,
     "callsign": "JOZZ2AJ-FM",
     "frequency": "77.9",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -924,7 +924,7 @@
     "areaid": 2,
     "callsign": "JOZZ2AK-FM",
     "frequency": "76.1",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -954,7 +954,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_7995ad31a871b30f323f2d99251baace",
+      "SR": "simu_f9a2e60750467e6cb33e1cbd82630ba3",
       "TR": "Yes",
       "US": "",
       "YL": ""
@@ -970,7 +970,7 @@
     "areaid": 2,
     "callsign": "JOZZ2AM-FM",
     "frequency": "76.5",
-    "marks1": 136,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -1000,13 +1000,13 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_9daf72aa580a852cf21ba3cb5120f314",
+      "SR": "simu_f8c437b7c01a08e2065af0714c8609c5",
       "TR": "",
       "US": "",
       "YL": ""
     },
     "name": "FMゆーとぴあ",
-    "output": "10",
+    "output": "20",
     "repeator": 0,
     "stationname": "エフエムゆーとぴあ",
     "status": 0
@@ -1039,7 +1039,7 @@
     "areaid": 2,
     "callsign": "JOZZ2AP-FM",
     "frequency": "79.7",
-    "marks1": 196,
+    "marks1": 68,
     "marks2": {
       "FT": "",
       "LR": "lisr_30018",
@@ -1131,7 +1131,7 @@
     "areaid": 2,
     "callsign": "JOZZ2AT-FM",
     "frequency": "78.8",
-    "marks1": 195,
+    "marks1": 67,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -1154,7 +1154,7 @@
     "areaid": 2,
     "callsign": "JOZZ2AU-FM",
     "frequency": "78.2",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -1207,7 +1207,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_fee4ed23818145263209b97cf6a1ba0a",
+      "SR": "simu_d831bf4ad60e727e292c84937d6b7ffe",
       "TR": "",
       "US": "",
       "YL": ""
@@ -1253,7 +1253,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_6cae946bf54f3a4b8c83ef7860decc7e",
+      "SR": "simu_fd5fe1723c6b3cf697a7551d1b33d368",
       "TR": "",
       "US": "",
       "YL": ""
@@ -1292,7 +1292,7 @@
     "areaid": 2,
     "callsign": "JOZZ2BA-FM",
     "frequency": "78.7",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -1322,7 +1322,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_0486cf318ddbf22372f4d8a8a090d6bf",
+      "SR": "simu_fe668f1118ad88606b30f56cbe0c1074",
       "TR": "",
       "US": "",
       "YL": ""
@@ -1345,7 +1345,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_7f5b37eced9d40852397d8b833724bc4",
+      "SR": "simu_439198dd4fd7d5b4e91f925d2662bb17",
       "TR": "",
       "US": "",
       "YL": ""
@@ -1384,7 +1384,7 @@
     "areaid": 2,
     "callsign": "JOZZ2BE-FM",
     "frequency": "83.4",
-    "marks1": 76,
+    "marks1": 72,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -1460,7 +1460,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_bc480dafdff7bdaf9bed4313c34595ab",
+      "SR": "simu_4d5b8c5907e0c22a81c7dcbd36047476",
       "TR": "",
       "US": "",
       "YL": ""
@@ -1483,7 +1483,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_e4c943fb0a4932c535ab97f2007ed39b",
+      "SR": "simu_14434dbf3fe23d2eb3af2677e25fcaa9",
       "TR": "",
       "US": "",
       "YL": ""
@@ -1499,7 +1499,7 @@
     "areaid": 2,
     "callsign": "JOZZ2BJ-FM",
     "frequency": "76.7",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -1522,7 +1522,7 @@
     "areaid": 2,
     "callsign": "JOZZ2BK-FM",
     "frequency": "77.7",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -1552,7 +1552,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_9c167b62ddc153a8f25e3b289b8df2bf",
+      "SR": "simu_f4f1e7a84844d76c804d8a756081d724",
       "TR": "",
       "US": "",
       "YL": ""
@@ -1591,7 +1591,7 @@
     "areaid": 2,
     "callsign": "JOZZ2BN-FM",
     "frequency": "89.1",
-    "marks1": 16,
+    "marks1": 0,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -1660,7 +1660,7 @@
     "areaid": 2,
     "callsign": "JOZZ2BQ-FM",
     "frequency": "86.8",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -1722,6 +1722,29 @@
     "output": "20",
     "repeator": 0,
     "stationname": "大館放送",
+    "status": 0
+  },
+  {
+    "address": "山形県新庄市",
+    "areaid": 2,
+    "callsign": "JOZZ2BT-FM",
+    "frequency": "89.6",
+    "marks1": 2,
+    "marks2": {
+      "FT": "",
+      "LR": "",
+      "SD": "",
+      "SJ": "",
+      "SP": "",
+      "SR": "",
+      "TR": "",
+      "US": "",
+      "YL": ""
+    },
+    "name": "あすラジ",
+    "output": "20",
+    "repeator": 0,
+    "stationname": "新庄コミュニティ放送",
     "status": 0
   },
   {
@@ -1966,7 +1989,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_c2d58d019ffb39926a791d150de5c63a",
+      "SR": "simu_22cb8ab32aaecd0eb04c70894565ab2d",
       "TR": "Yes",
       "US": "",
       "YL": ""
@@ -2013,7 +2036,7 @@
       "SJ": "jcba_019",
       "SP": "",
       "SR": "",
-      "TR": "",
+      "TR": "Yes",
       "US": "",
       "YL": ""
     },
@@ -2081,7 +2104,7 @@
       "SD": "",
       "SJ": "jcba_130",
       "SP": "",
-      "SR": "simu_1a4d8755b40c421982c6b2028acc0a59",
+      "SR": "simu_4e83d91084bb03fcf2da100254aff79b",
       "TR": "",
       "US": "",
       "YL": "Yes"
@@ -2242,7 +2265,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_b35e400b4f852c8a740c4eeaafbba145",
+      "SR": "simu_d502631759c0a9181dffd8dfa2199b94",
       "TR": "",
       "US": "",
       "YL": ""
@@ -2265,7 +2288,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_4ee499e83658b203165e2ea21840a03e",
+      "SR": "simu_6b41545e77691cc05a2be1dadd744574",
       "TR": "",
       "US": "",
       "YL": ""
@@ -2449,7 +2472,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_4627a9900185713205b7085b1d97eb3a",
+      "SR": "simu_4cabf3467b634409a1e91e7fc89d02c8",
       "TR": "",
       "US": "Yes",
       "YL": ""
@@ -2560,11 +2583,11 @@
     "marks1": 2,
     "marks2": {
       "FT": "Yes",
-      "LR": "lisr_30026",
+      "LR": "Yes",
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_52e47c7b5e25d69e4a57e08d2f9eff61",
+      "SR": "simu_f2532b016b8998b7c439a0c4e9b1f2a0",
       "TR": "",
       "US": "",
       "YL": ""
@@ -2587,7 +2610,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_d0d4b558253097131a9af6bbde86d07f",
+      "SR": "simu_8969f547118fbe3cbc20ff239fd4a750",
       "TR": "",
       "US": "",
       "YL": ""
@@ -2656,7 +2679,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_62dd884bed2ff48f2b5412ddff435509",
+      "SR": "simu_92ab0439d32d200933a5c101f42426f3",
       "TR": "",
       "US": "",
       "YL": ""
@@ -2702,7 +2725,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_f0d591e3061527bdfe2220a5c150b840",
+      "SR": "simu_e642ef3f985a42f56e4284f147c6a97b",
       "TR": "Yes",
       "US": "",
       "YL": ""
@@ -2794,7 +2817,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_a7816de34c6d615a00c5c50f3aba589d",
+      "SR": "simu_881a775f151ac1f7f1c9fcb5464ccb04",
       "TR": "",
       "US": "Yes",
       "YL": ""
@@ -2863,7 +2886,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_7cac4e9d220cb0e55fde2d4e7dd919bd",
+      "SR": "simu_506593f854a82a535e762c46dd6b4f26",
       "TR": "",
       "US": "",
       "YL": ""
@@ -2948,7 +2971,7 @@
     "areaid": 3,
     "callsign": "JOZZ3CB-FM",
     "frequency": "85.7",
-    "marks1": 2,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -2978,7 +3001,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_082613562a433d0b658e07e7e214e8ef",
+      "SR": "simu_9e73b3e561a6f2eff803cf78ce127413",
       "TR": "",
       "US": "",
       "YL": ""
@@ -3001,7 +3024,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_e94ae4d7028269ca192faea10aa1914b",
+      "SR": "simu_fcda76b58971920b7f6c480360ae4df9",
       "TR": "",
       "US": "",
       "YL": ""
@@ -3068,7 +3091,7 @@
       "FT": "",
       "LR": "",
       "SD": "Yes",
-      "SJ": "",
+      "SJ": "jcba_051",
       "SP": "",
       "SR": "",
       "TR": "",
@@ -3236,8 +3259,8 @@
       "US": "",
       "YL": ""
     },
-    "name": "FMひがしくるめ",
-    "output": "2",
+    "name": "TOKYO854くるめラ",
+    "output": "10",
     "repeator": 0,
     "stationname": "クルメディア",
     "status": 0
@@ -3398,7 +3421,7 @@
       "YL": ""
     },
     "name": "FMゆうがお",
-    "output": "10",
+    "output": "20",
     "repeator": 0,
     "stationname": "ケーブルビジョン",
     "status": 0
@@ -3484,7 +3507,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "",
+      "SR": "lisr",
       "TR": "",
       "US": "",
       "YL": ""
@@ -3569,7 +3592,7 @@
     "areaid": 4,
     "callsign": "JOZZ4AC-FM",
     "frequency": "76.3",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -3592,7 +3615,7 @@
     "areaid": 4,
     "callsign": "JOZZ4AD-FM",
     "frequency": "76.5",
-    "marks1": 6,
+    "marks1": 2,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -3615,7 +3638,7 @@
     "areaid": 4,
     "callsign": "JOZZ4AE-FM",
     "frequency": "76.9",
-    "marks1": 13,
+    "marks1": 9,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -3638,7 +3661,7 @@
     "areaid": 4,
     "callsign": "JOZZ4AF-FM",
     "frequency": "76.2",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -3719,7 +3742,7 @@
       "US": "",
       "YL": ""
     },
-    "name": "ラヂオは〜と",
+    "name": "ラヂオは～と",
     "output": "20",
     "repeator": "1",
     "stationname": "燕三条エフエム放送",
@@ -3730,7 +3753,7 @@
     "areaid": 4,
     "callsign": "JOZZ4AJ-FM",
     "frequency": "76.1",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -3742,7 +3765,7 @@
       "US": "",
       "YL": ""
     },
-    "name": "FM-J",
+    "name": "FMじょうえつ FM-J",
     "output": "20",
     "repeator": 0,
     "stationname": "上越ケーブルビジョン",
@@ -3776,7 +3799,7 @@
     "areaid": 4,
     "callsign": "JOZZ4AL-FM",
     "frequency": "77.5",
-    "marks1": 84,
+    "marks1": 0,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -3845,7 +3868,7 @@
     "areaid": 4,
     "callsign": "JOZZ4AO-FM",
     "frequency": "76.9",
-    "marks1": 44,
+    "marks1": 40,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -3868,7 +3891,7 @@
     "areaid": 4,
     "callsign": "JOZZ4AP-FM",
     "frequency": "78.5",
-    "marks1": 2,
+    "marks1": 4,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -3898,14 +3921,14 @@
       "SD": "",
       "SJ": "jcba_127",
       "SP": "",
-      "SR": "simu_cbbd50097b28f4977e4b56ad837fec50",
+      "SR": "simu_37ec8a2d468ce50c160e82c6f79ffc70",
       "TR": "",
       "US": "",
       "YL": ""
     },
     "name": "あづみ野エフエム",
     "output": "20",
-    "repeator": 0,
+    "repeator": "1",
     "stationname": "あづみ野エフエム放送",
     "status": 0
   },
@@ -3979,6 +4002,29 @@
     "status": 0
   },
   {
+    "address": "長野県塩尻市",
+    "areaid": 4,
+    "callsign": "JOZZ4AU-FM",
+    "frequency": "89.4",
+    "marks1": 8,
+    "marks2": {
+      "FT": "",
+      "LR": "",
+      "SD": "",
+      "SJ": "jcba_131",
+      "SP": "",
+      "SR": "",
+      "TR": "",
+      "US": "",
+      "YL": ""
+    },
+    "name": "高ボッチ高原FM",
+    "output": "20",
+    "repeator": 0,
+    "stationname": "しおじりコミュニティ放送",
+    "status": 0
+  },
+  {
     "address": "石川県野々市市",
     "areaid": 5,
     "callsign": "JOZZ5AA-FM",
@@ -4006,7 +4052,7 @@
     "areaid": 5,
     "callsign": "JOZZ5AB-FM",
     "frequency": "78.0",
-    "marks1": 141,
+    "marks1": 9,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4029,7 +4075,7 @@
     "areaid": 5,
     "callsign": "JOZZ5AC-FM",
     "frequency": "76.6",
-    "marks1": 13,
+    "marks1": 9,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4052,7 +4098,7 @@
     "areaid": 5,
     "callsign": "JOZZ5AD-FM",
     "frequency": "76.4",
-    "marks1": 77,
+    "marks1": 73,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4075,7 +4121,7 @@
     "areaid": 5,
     "callsign": "JOZZ5AE-FM",
     "frequency": "76.2",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4098,7 +4144,7 @@
     "areaid": 5,
     "callsign": "JOZZ5AF-FM",
     "frequency": "77.7",
-    "marks1": 132,
+    "marks1": 4,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4121,14 +4167,14 @@
     "areaid": 5,
     "callsign": "JOZZ5AG-FM",
     "frequency": "76.1",
-    "marks1": 13,
+    "marks1": 5,
     "marks2": {
       "FT": "Yes",
       "LR": "lisr_30006",
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_840df889115be95d30f681d070356377",
+      "SR": "simu_5fadb47c4a9f6d979c112f66c1965e14",
       "TR": "",
       "US": "",
       "YL": ""
@@ -4144,7 +4190,7 @@
     "areaid": 5,
     "callsign": "JOZZ5AH-FM",
     "frequency": "76.9",
-    "marks1": 13,
+    "marks1": 9,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4305,7 +4351,7 @@
     "areaid": 6,
     "callsign": "JOZZ6AB-FM",
     "frequency": "76.1",
-    "marks1": 140,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4328,7 +4374,7 @@
     "areaid": 6,
     "callsign": "JOZZ6AC-FM",
     "frequency": "76.3",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4351,7 +4397,7 @@
     "areaid": 6,
     "callsign": "JOZZ6AD-FM",
     "frequency": "77.7",
-    "marks1": 76,
+    "marks1": 72,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4374,7 +4420,7 @@
     "areaid": 6,
     "callsign": "JOZZ6AE-FM",
     "frequency": "76.5",
-    "marks1": 6,
+    "marks1": 2,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4404,7 +4450,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_4892e7014b001c448a8e69d781f15f1e",
+      "SR": "simu_341d50ce6332df594d1a46fa9dbccc42",
       "TR": "",
       "US": "",
       "YL": ""
@@ -4420,7 +4466,7 @@
     "areaid": 6,
     "callsign": "JOZZ6AG-FM",
     "frequency": "76.9",
-    "marks1": 132,
+    "marks1": 4,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4455,7 +4501,7 @@
       "US": "",
       "YL": ""
     },
-    "name": "なぎさステーション",
+    "name": "エフエム伊東なぎさステーション",
     "output": "10",
     "repeator": 0,
     "stationname": "エフエム伊東",
@@ -4512,7 +4558,7 @@
     "areaid": 6,
     "callsign": "JOZZ6AK-FM",
     "frequency": "76.3",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4561,11 +4607,11 @@
     "marks1": 72,
     "marks2": {
       "FT": "",
-      "LR": "lisr_30062",
+      "LR": "",
       "SD": "",
-      "SJ": "",
+      "SJ": "Yes",
       "SP": "",
-      "SR": "lisr",
+      "SR": "",
       "TR": "",
       "US": "",
       "YL": ""
@@ -4611,7 +4657,7 @@
       "SD": "",
       "SJ": "",
       "SP": "Yes",
-      "SR": "simu_0d894fcae43bdb0926509058940013bd",
+      "SR": "simu_a95d4d9b383072c1a644b355ee1c849a",
       "TR": "",
       "US": "",
       "YL": ""
@@ -4627,7 +4673,7 @@
     "areaid": 6,
     "callsign": "JOZZ6AP-FM",
     "frequency": "78.5",
-    "marks1": 20,
+    "marks1": 0,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4719,7 +4765,7 @@
     "areaid": 6,
     "callsign": "JOZZ6AT-FM",
     "frequency": "84.5",
-    "marks1": 76,
+    "marks1": 72,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4765,7 +4811,7 @@
     "areaid": 6,
     "callsign": "JOZZ6AV-FM",
     "frequency": "84.2",
-    "marks1": 20,
+    "marks1": 0,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4811,14 +4857,14 @@
     "areaid": 6,
     "callsign": "JOZZ6AX-FM",
     "frequency": "76.1",
-    "marks1": 8,
+    "marks1": 0,
     "marks2": {
       "FT": "",
       "LR": "lisr_30004",
       "SD": "",
       "SJ": "",
-      "SP": "",
-      "SR": "simu_148a2924f057620a3c87adffd61236dc",
+      "SP": "Yes",
+      "SR": "simu_31cac082c293fbe553120cab3a9bb48d",
       "TR": "",
       "US": "",
       "YL": ""
@@ -4834,7 +4880,7 @@
     "areaid": 6,
     "callsign": "JOZZ6AY-FM",
     "frequency": "76.5",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4857,7 +4903,7 @@
     "areaid": 6,
     "callsign": "JOZZ6AZ-FM",
     "frequency": "78.3",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4903,7 +4949,7 @@
     "areaid": 6,
     "callsign": "JOZZ6BB-FM",
     "frequency": "76.5",
-    "marks1": 20,
+    "marks1": 0,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4926,7 +4972,7 @@
     "areaid": 6,
     "callsign": "JOZZ6BC-FM",
     "frequency": "77.3",
-    "marks1": 13,
+    "marks1": 9,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4949,14 +4995,14 @@
     "areaid": 6,
     "callsign": "JOZZ6BD-FM",
     "frequency": "87.7",
-    "marks1": 16,
+    "marks1": 0,
     "marks2": {
-      "FT": "Yes",
+      "FT": "",
       "LR": "",
       "SD": "",
-      "SJ": "",
+      "SJ": "jcba_056",
       "SP": "",
-      "SR": "simu_62c3823c3f8c90b30e69a7dd9e137cc8",
+      "SR": "",
       "TR": "",
       "US": "",
       "YL": ""
@@ -4972,7 +5018,7 @@
     "areaid": 6,
     "callsign": "JOZZ6BE-FM",
     "frequency": "87.2",
-    "marks1": 20,
+    "marks1": 0,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -4995,7 +5041,7 @@
     "areaid": 6,
     "callsign": "JOZZ6BF-FM",
     "frequency": "86.3",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5018,7 +5064,7 @@
     "areaid": 6,
     "callsign": "JOZZ6BG-FM",
     "frequency": "86.1",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5064,7 +5110,7 @@
     "areaid": 7,
     "callsign": "JOZZ7AB-FM",
     "frequency": "84.5",
-    "marks1": 16,
+    "marks1": 0,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5087,7 +5133,7 @@
     "areaid": 7,
     "callsign": "JOZZ7AC-FM",
     "frequency": "81.6",
-    "marks1": 6,
+    "marks1": 2,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5110,7 +5156,7 @@
     "areaid": 7,
     "callsign": "JOZZ7AD-FM",
     "frequency": "88.8",
-    "marks1": 20,
+    "marks1": 16,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5156,14 +5202,14 @@
     "areaid": 7,
     "callsign": "JOZZ7AF-FM",
     "frequency": "78.1",
-    "marks1": 132,
+    "marks1": 2,
     "marks2": {
-      "FT": "Yes",
+      "FT": "",
       "LR": "lisr_30073",
       "SD": "",
       "SJ": "",
-      "SP": "",
-      "SR": "simu_6d5b62caa954e9d976dc2a83ec66d877",
+      "SP": "Yes",
+      "SR": "simu_6220ee88245eccf38dda5433859c07c2",
       "TR": "",
       "US": "",
       "YL": ""
@@ -5181,12 +5227,12 @@
     "frequency": "77.9",
     "marks1": 1,
     "marks2": {
-      "FT": "Yes",
-      "LR": "lisr_30049",
+      "FT": "",
+      "LR": "Yes",
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_a46abeb0a1790aa80ec2c3870b8f9c0e",
+      "SR": "Yes",
       "TR": "",
       "US": "",
       "YL": ""
@@ -5195,7 +5241,7 @@
     "output": "10",
     "repeator": 0,
     "stationname": "エフエムひらかた",
-    "status": 0
+    "status": 1
   },
   {
     "address": "兵庫県三木市",
@@ -5225,14 +5271,14 @@
     "areaid": 7,
     "callsign": "JOZZ7AI-FM",
     "frequency": "82.0",
-    "marks1": 16,
+    "marks1": 0,
     "marks2": {
-      "FT": "Yes",
+      "FT": "",
       "LR": "lisr_30067",
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_37a77b7c990dc31b472fa4d02bbd3619",
+      "SR": "simu_bcc62ebaa05a1f8e80d0a8855b441706",
       "TR": "",
       "US": "",
       "YL": ""
@@ -5248,7 +5294,7 @@
     "areaid": 7,
     "callsign": "JOZZ7AJ-FM",
     "frequency": "79.4",
-    "marks1": 20,
+    "marks1": 0,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5271,7 +5317,7 @@
     "areaid": 7,
     "callsign": "JOZZ7AK-FM",
     "frequency": "78.9",
-    "marks1": 20,
+    "marks1": 0,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5294,14 +5340,14 @@
     "areaid": 7,
     "callsign": "JOZZ7AL-FM",
     "frequency": "76.1",
-    "marks1": 16,
+    "marks1": 0,
     "marks2": {
-      "FT": "Yes",
+      "FT": "",
       "LR": "",
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_62f82c45f063a06e16f2fc9d797c03a1",
+      "SR": "simu_6ee7263b4c969ecfc0dbe8c5a5d7cb46",
       "TR": "",
       "US": "",
       "YL": ""
@@ -5317,7 +5363,7 @@
     "areaid": 7,
     "callsign": "JOZZ7AM-FM",
     "frequency": "76.3",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5340,7 +5386,7 @@
     "areaid": 7,
     "callsign": "JOZZ7AN-FM",
     "frequency": "78.7",
-    "marks1": 76,
+    "marks1": 72,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5386,7 +5432,7 @@
     "areaid": 7,
     "callsign": "JOZZ7AP-FM",
     "frequency": "79.2",
-    "marks1": 36,
+    "marks1": 32,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5411,12 +5457,12 @@
     "frequency": "76.4",
     "marks1": 8,
     "marks2": {
-      "FT": "Yes",
+      "FT": "",
       "LR": "lisr_30013",
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_45c2a771cbc2a4b34351bdab93753e2d",
+      "SR": "simu_01abaa802d3b09899c7574a0eaddadc4",
       "TR": "",
       "US": "",
       "YL": ""
@@ -5432,7 +5478,7 @@
     "areaid": 7,
     "callsign": "JOZZ7AR-FM",
     "frequency": "81.4",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5455,7 +5501,7 @@
     "areaid": 7,
     "callsign": "JOZZ7AS-FM",
     "frequency": "78.4",
-    "marks1": 5,
+    "marks1": 1,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5478,7 +5524,7 @@
     "areaid": 7,
     "callsign": "JOZZ7AT-FM",
     "frequency": "83.5",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5503,7 +5549,7 @@
     "frequency": "79.3",
     "marks1": 36,
     "marks2": {
-      "FT": "Yes",
+      "FT": "",
       "LR": "lisr_30041",
       "SD": "",
       "SJ": "",
@@ -5570,9 +5616,9 @@
     "areaid": 7,
     "callsign": "JOZZ7AX-FM",
     "frequency": "82.2",
-    "marks1": 16,
+    "marks1": 0,
     "marks2": {
-      "FT": "Yes",
+      "FT": "",
       "LR": "",
       "SD": "",
       "SJ": "",
@@ -5593,14 +5639,14 @@
     "areaid": 7,
     "callsign": "JOZZ7AY-FM",
     "frequency": "79.7",
-    "marks1": 16,
+    "marks1": 0,
     "marks2": {
-      "FT": "Yes",
+      "FT": "",
       "LR": "lisr_30082",
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_35997b73f6101badd9975ffb17762af6",
+      "SR": "simu_743e677f6af5ac06380088afc7c02745",
       "TR": "",
       "US": "",
       "YL": ""
@@ -5646,7 +5692,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_c7d1efa361161f1ff5431b3b494a6562",
+      "SR": "simu_4bd8187c9de82e5647f77d733f9efa82",
       "TR": "",
       "US": "",
       "YL": ""
@@ -5685,7 +5731,7 @@
     "areaid": 7,
     "callsign": "JOZZ7BC-FM",
     "frequency": "83.7",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5710,12 +5756,12 @@
     "frequency": "86.9",
     "marks1": 76,
     "marks2": {
-      "FT": "Yes",
+      "FT": "",
       "LR": "lisr_30078",
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_7eb1883f6f5cc7316489052a0b44491b",
+      "SR": "simu_781cafee1a6c6c16cb5c02a8198de147",
       "TR": "",
       "US": "",
       "YL": ""
@@ -5731,7 +5777,7 @@
     "areaid": 7,
     "callsign": "JOZZ7BE-FM",
     "frequency": "87.7",
-    "marks1": 22,
+    "marks1": 2,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5802,12 +5848,12 @@
     "frequency": "79.4",
     "marks1": 2,
     "marks2": {
-      "FT": "Yes",
+      "FT": "",
       "LR": "",
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_d15f7ef88eeca5376be571486f330cde",
+      "SR": "simu_48c7483af93d8a34baddb13e0d152f8e",
       "TR": "",
       "US": "",
       "YL": ""
@@ -5823,14 +5869,14 @@
     "areaid": 7,
     "callsign": "JOZZ7BI-FM",
     "frequency": "88.5",
-    "marks1": 16,
+    "marks1": 0,
     "marks2": {
       "FT": "",
       "LR": "",
       "SD": "",
       "SJ": "jcba_114",
       "SP": "",
-      "SR": "Yes",
+      "SR": "",
       "TR": "",
       "US": "",
       "YL": ""
@@ -5869,7 +5915,7 @@
     "areaid": 7,
     "callsign": "JOZZ7BK-FM",
     "frequency": "79.7",
-    "marks1": 16,
+    "marks1": 0,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5894,12 +5940,12 @@
     "frequency": "81.6",
     "marks1": 2,
     "marks2": {
-      "FT": "Yes",
+      "FT": "",
       "LR": "",
       "SD": "",
       "SJ": "jcba_120",
       "SP": "",
-      "SR": "simu_3ec032a9b5bf8ddb8a96c3e4d6d4296a",
+      "SR": "simu_38c103e8d9f34dfa9dbf8acfb3af061d",
       "TR": "",
       "US": "",
       "YL": ""
@@ -5915,14 +5961,14 @@
     "areaid": 7,
     "callsign": "JOZZ7BM-FM",
     "frequency": "80.5",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
-      "FT": "Yes",
+      "FT": "",
       "LR": "",
       "SD": "",
       "SJ": "jcba_118",
       "SP": "",
-      "SR": "simu_f61bbd2dc14c032fc390d8d76119b3f1",
+      "SR": "simu_93f6984794a7da5135ea560aeec763b3",
       "TR": "",
       "US": "",
       "YL": ""
@@ -5938,7 +5984,7 @@
     "areaid": 7,
     "callsign": "JOZZ7BN-FM",
     "frequency": "77.5",
-    "marks1": 6,
+    "marks1": 2,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -5963,12 +6009,12 @@
     "frequency": "87.0",
     "marks1": 2,
     "marks2": {
-      "FT": "Yes",
+      "FT": "",
       "LR": "lisr_30071",
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_46401d642fa526fec1cf870b8d1df7ad",
+      "SR": "simu_c0c7cfe3241150fcc2c7fdb3f713a3a7",
       "TR": "",
       "US": "",
       "YL": ""
@@ -5984,7 +6030,7 @@
     "areaid": 7,
     "callsign": "JOZZ7BP-FM",
     "frequency": "78.0",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -6007,7 +6053,7 @@
     "areaid": 7,
     "callsign": "JOZZ7BQ-FM",
     "frequency": "85.5",
-    "marks1": 16,
+    "marks1": 2,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -6082,7 +6128,7 @@
       "LR": "",
       "SD": "",
       "SJ": "",
-      "SP": "",
+      "SP": "Yes",
       "SR": "",
       "TR": "",
       "US": "",
@@ -6134,7 +6180,7 @@
       "US": "",
       "YL": ""
     },
-    "name": "NANAKO",
+    "name": "FM NANAKO",
     "output": "20",
     "repeator": 0,
     "stationname": "エフエム萩",
@@ -6168,7 +6214,7 @@
     "areaid": 8,
     "callsign": "JOZZ8AD-FM",
     "frequency": "79.0",
-    "marks1": 77,
+    "marks1": 73,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -6191,7 +6237,7 @@
     "areaid": 8,
     "callsign": "JOZZ8AE-FM",
     "frequency": "76.4",
-    "marks1": 77,
+    "marks1": 73,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -6214,7 +6260,7 @@
     "areaid": 8,
     "callsign": "JOZZ8AF-FM",
     "frequency": "79.4",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -6237,7 +6283,7 @@
     "areaid": 8,
     "callsign": "JOZZ8AG-FM",
     "frequency": "76.6",
-    "marks1": 140,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -6306,7 +6352,7 @@
     "areaid": 8,
     "callsign": "JOZZ8AJ-FM",
     "frequency": "78.4",
-    "marks1": 13,
+    "marks1": 9,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -6413,7 +6459,7 @@
     "name": "エフエムゆめウェーブ",
     "output": "20",
     "repeator": 0,
-    "stationname": "エフエムゆめウェーブ",
+    "stationname": "笠岡放送",
     "status": 0
   },
   {
@@ -6444,7 +6490,7 @@
     "areaid": 8,
     "callsign": "JOZZ8AP-FM",
     "frequency": "76.1",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -6536,7 +6582,7 @@
     "areaid": 8,
     "callsign": "JOZZ8AT-FM",
     "frequency": "79.8",
-    "marks1": 16,
+    "marks1": 0,
     "marks2": {
       "FT": "",
       "LR": "lisr_30053",
@@ -6559,7 +6605,7 @@
     "areaid": 8,
     "callsign": "JOZZ8AU-FM",
     "frequency": "89.7",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -6594,7 +6640,7 @@
       "US": "",
       "YL": ""
     },
-    "name": "FMスマイルウェ〜ブ",
+    "name": "FMスマイルウェ～ブ",
     "output": "20",
     "repeator": 0,
     "stationname": "FM山陽小野田",
@@ -6605,7 +6651,7 @@
     "areaid": 8,
     "callsign": "JOZZ8AW-FM",
     "frequency": "87.4",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -6635,7 +6681,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_abc2570c307423587fb92fe09809d22e",
+      "SR": "simu_0bafae8955fbba567fe76f2811c3db9e",
       "TR": "Yes",
       "US": "",
       "YL": ""
@@ -6658,7 +6704,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_abcb7e163a537ec2ead4c61626b33c3f",
+      "SR": "simu_196df49c5a020595a087275080dc333e",
       "TR": "Yes",
       "US": "",
       "YL": ""
@@ -6681,7 +6727,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_5e63a71c8b6ffb1cc6e6abdda2e3d004",
+      "SR": "simu_bd5f7ba952f49d1b0e2cdf6e45fef2fd",
       "TR": "Yes",
       "US": "",
       "YL": ""
@@ -6766,7 +6812,7 @@
     "areaid": 9,
     "callsign": "JOZZ9AG-FM",
     "frequency": "76.2",
-    "marks1": 132,
+    "marks1": 4,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -6789,7 +6835,7 @@
     "areaid": 9,
     "callsign": "JOZZ9AH-FM",
     "frequency": "78.9",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -6812,7 +6858,7 @@
     "areaid": 9,
     "callsign": "JOZZ9AI-FM",
     "frequency": "76.9",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -6835,7 +6881,7 @@
     "areaid": 9,
     "callsign": "JOZZ9AJ-FM",
     "frequency": "78.0",
-    "marks1": 12,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -7210,7 +7256,7 @@
       "SD": "",
       "SJ": "",
       "SP": "Yes",
-      "SR": "simu_951e7fe8db619d75cbd153d37813f92d",
+      "SR": "simu_cb038a0684c4ff082069f94cc2f0a872",
       "TR": "",
       "US": "",
       "YL": ""
@@ -7302,7 +7348,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_d8a5d294f97961a13c3f3b0fa8c75b69",
+      "SR": "lisr",
       "TR": "",
       "US": "",
       "YL": ""
@@ -7486,7 +7532,7 @@
       "SD": "",
       "SJ": "",
       "SP": "Yes",
-      "SR": "simu_4b197b4b64fbf1012a551475caa3bab6",
+      "SR": "simu_fe790bda07a907a00ef2d3a24f2c0676",
       "TR": "",
       "US": "",
       "YL": ""
@@ -7571,7 +7617,7 @@
     "areaid": 0,
     "callsign": "JOZZ0BF-FM",
     "frequency": "88.4",
-    "marks1": 8,
+    "marks1": 4,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -7647,7 +7693,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "",
+      "SR": "lisr",
       "TR": "",
       "US": "",
       "YL": ""
@@ -7693,7 +7739,7 @@
       "SD": "Yes",
       "SJ": "",
       "SP": "",
-      "SR": "simu_69405b68ab83d4dae665219a9d26750a",
+      "SR": "simu_5b338bef249ef836244eb2bb9c2994fd",
       "TR": "",
       "US": "",
       "YL": ""
@@ -7785,7 +7831,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_89fe8293d2f6a718012cbb251054d911",
+      "SR": "lisr",
       "TR": "",
       "US": "",
       "YL": ""
@@ -7831,7 +7877,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_447bb94439884f067a022ea8a87b40ec",
+      "SR": "simu_ee31aef18b5332f3e096b19f2cf87c7d",
       "TR": "",
       "US": "",
       "YL": ""
@@ -7946,7 +7992,7 @@
       "SD": "",
       "SJ": "",
       "SP": "Yes",
-      "SR": "simu_8e06fb4ccd3f20fd057dc015d6d6abea",
+      "SR": "simu_822c473363bf2b8b3d6580915eeab3ef",
       "TR": "",
       "US": "",
       "YL": ""
@@ -7969,7 +8015,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_e765fd9ddc143e0e7cf291347445cb80",
+      "SR": "simu_140d62fa29bbee5b75ab5204681a0a1a",
       "TR": "",
       "US": "",
       "YL": ""
@@ -8000,7 +8046,7 @@
     "name": "えびすFM",
     "output": "20",
     "repeator": 0,
-    "stationname": "コミュニティジャーナルエフエム",
+    "stationname": "コミュニティジャーナル",
     "status": 0
   },
   {
@@ -8038,7 +8084,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_6dbae5007df55be2c1ac289a5c43722b",
+      "SR": "simu_19046672999509506603b184dd6ae4d1",
       "TR": "",
       "US": "",
       "YL": ""
@@ -8057,16 +8103,16 @@
     "marks1": 0,
     "marks2": {
       "FT": "",
-      "LR": "",
+      "LR": "lisr_30077",
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_7836c83d928e4a8c885a0c0533a6341f",
+      "SR": "",
       "TR": "",
       "US": "",
       "YL": ""
     },
-    "name": "コミュニティラジオ天神",
+    "name": "COMI×TEN",
     "output": "20",
     "repeator": 0,
     "stationname": "コミュニティメディアパートナーズ福岡",
@@ -8199,7 +8245,7 @@
       "SD": "",
       "SJ": "",
       "SP": "",
-      "SR": "simu_0778ff9c45c609a27383859e35a6112c",
+      "SR": "simu_ac60ed971ec4b2138242d1d5e75789ea",
       "TR": "",
       "US": "Yes",
       "YL": ""
@@ -8284,7 +8330,7 @@
     "areaid": 0,
     "callsign": "JOZZ0CK-FM",
     "frequency": "87.6",
-    "marks1": 0,
+    "marks1": 8,
     "marks2": {
       "FT": "",
       "LR": "",
@@ -8415,6 +8461,29 @@
     "output": "20",
     "repeator": 0,
     "stationname": "つなぐほーむ",
+    "status": 0
+  },
+  {
+    "address": "鹿児島県瀬戸内町",
+    "areaid": 0,
+    "callsign": "JOZZ0CQ-FM",
+    "frequency": "76.8",
+    "marks1": 0,
+    "marks2": {
+      "FT": "",
+      "LR": "lisr_30080",
+      "SD": "",
+      "SJ": "",
+      "SP": "",
+      "SR": "",
+      "TR": "",
+      "US": "",
+      "YL": ""
+    },
+    "name": "せとうちラジオ放送",
+    "output": "20",
+    "repeator": "1",
+    "stationname": "せとラジ",
     "status": 0
   }
 ]

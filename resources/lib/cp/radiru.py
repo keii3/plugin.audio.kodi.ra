@@ -133,7 +133,7 @@ class Radiru(Params, Jcba):
                 log('failed to get data from url:%s' % url)
         # キャッシュから番組データを抽出
         data = data or read_file(self.PROGRAM_FILE)
-        if data:
+        if data is not None:
             data = convert(json.loads(data), strip=True)
             buf = []
             for s in self.STATION:

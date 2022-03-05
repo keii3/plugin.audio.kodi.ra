@@ -82,7 +82,7 @@ pageTracker._trackPageview();
 				<div id="news_outer">
 					<div class="news">
 						<h3>お知らせ</h3>
-						<iframe src="news.html?2021" width="590px" height="60px" frameborder="0"></iframe>
+						<iframe src="news.html?202106" width="590px" height="60px" frameborder="0"></iframe>
 					</div>
 					<div class="bn_csra">
 						<a href="http://csra.fm/" target="_blank"><img src="images/bn_csra_test.gif" alt="CSRAバナー" /></a>
@@ -143,7 +143,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/3.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fmwing.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fmwing.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fmwing.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fmwing.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (24K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -173,7 +173,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/57.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/FmKushiro.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/FmKushiro.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/FmKushiro.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/FmKushiro.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -186,7 +186,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/58.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fmwappy.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fmwappy.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fmwappy.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fmwappy.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -199,7 +199,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td width="90"><p><img src="data/5.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fm837.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fm837.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fm837.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fm837.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p></td>
 							<td width="210">&nbsp;</td>
 						</tr>
@@ -234,7 +234,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/104.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/iruka.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/iruka.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/iruka.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/iruka.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -249,7 +249,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/112.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/radiokaros.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/radiokaros.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/radiokaros.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/radiokaros.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -266,7 +266,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/123.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fmapple.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fmapple.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fmapple.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fmapple.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p><p><a href="http://listenradio.jp/Home/ProgramSchedule/30090/FMアップル" onClick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30090/FMアップル');" target="_blank"><img src="images/btn_lrbtn.png" alt="リスラジで聴く" width="70" height="32" border="0" /></a><br />
 									上記で再生できない方は、リスラジアイコンをクリックしてください</p></td>
 						</tr>
@@ -280,7 +280,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/129.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/eniwa.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/eniwa.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/eniwa.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/eniwa.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -296,7 +296,7 @@ pageTracker._trackPageview();
 			--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/135.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/otaru.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/otaru.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/otaru.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/otaru.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -316,7 +316,7 @@ pageTracker._trackPageview();
 			--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/140.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><!--<a href="http://www.simulradio.info/asx/shiroishi.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/shiroishi.asx');">--><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /><!--</a>--><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><!--<a href="https://www.simulradio.info/asx/shiroishi.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/shiroishi.asx');">--><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /><!--</a>--><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -366,11 +366,11 @@ pageTracker._trackPageview();
 			--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/164.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://lve.jp/jcCb5GJOHwON/" onclick="javascript: pageTracker._trackPageview('https://lve.jp/jcCb5GJOHwON/');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://listenradio.jp/Home/ProgramSchedule/30032/%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E6%9D%91%E3%83%A9%E3%82%B8%E3%82%AA" onclick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30032/%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E6%9D%91%E3%83%A9%E3%82%B8%E3%82%AA');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
-							<td colspan="2"><p style="clear:both;  margin-top: 0px;"><strong><a href="https://sapporomura-radio.jp/" target="_blank"> さっぽろ村ラジオ</a></strong><br />
+							<td colspan="2"><p style="clear:both;  margin-top: 0px;">「放送を聞く」をクリックし、リスラジのさっぽろ村ラジオの番組表ページへ。左上のListenRadioのロゴの下の再生マークをクリックすると放送が聞けます。<br /><strong><a href="https://www.fm813.jp/" target="_blank"> さっぽろ村ラジオ</a></strong><br />
 								札幌市</p>
 						</tr>
 					</table>
@@ -422,7 +422,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/8.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fmmotcom.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fmmotcom.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fmmotcom.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fmmotcom.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (24K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -438,7 +438,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/34.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fm-iwaki.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fm-iwaki.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fm-iwaki.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fm-iwaki.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -451,7 +451,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/52.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/aizu.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/aizu.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/aizu.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/aizu.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -463,7 +463,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/53.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/FmYutopia.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/FmYutopia.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/FmYutopia.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/FmYutopia.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p><p><a href="http://listenradio.jp/Home/ProgramSchedule/30030/FMゆーとぴあ" onClick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30030/FMゆーとぴあ');" target="_blank"><img src="images/btn_lrbtn.png" alt="リスラジで聴く" width="70" height="32" border="0" /></a><br />
 									上記で再生できない方は、リスラジアイコンをクリックしてください</p></td>
 						</tr>
@@ -476,8 +476,9 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/54.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/yokote.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/yokote.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
-									音声 (64K)</p></td>
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/yokote.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/yokote.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+									音声 (64K)</p><p><a href="http://listenradio.jp/Home/ProgramSchedule/30076/%E6%A8%AA%E6%89%8B%E3%81%8B%E3%81%BE%E3%81%8F%E3%82%89FM" onClick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30076/%E6%A8%AA%E6%89%8B%E3%81%8B%E3%81%BE%E3%81%8F%E3%82%89FM');" target="_blank"><img src="images/btn_lrbtn.png" alt="リスラジで聴く" width="70" height="32" border="0" /></a><br />
+									上記で再生できない方は、リスラジアイコンをクリックしてください</p></td>
 						</tr>
 						<tr valign="top">
 							<td colspan="2"><p style="clear:both;  margin-top: 0px;"><strong><a href="http://www.fmyokote.com/" target="_blank">横手かまくらエフエム</a></strong> <br />
@@ -491,7 +492,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/64.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/FmMiyako.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/FmMiyako.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/FmMiyako.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/FmMiyako.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -504,7 +505,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/68.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/RadioIshinomaki.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/RadioIshinomaki.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/RadioIshinomaki.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/RadioIshinomaki.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -516,7 +517,7 @@ pageTracker._trackPageview();
 						<!--
 						<tr valign="top">
 							<td><p><img src="data/66.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/BAYWAVE.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/BAYWAVE.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/BAYWAVE.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/BAYWAVE.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 
 						</tr>
@@ -561,7 +562,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/71.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/RingoFM.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/RingoFM.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/RingoFM.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/RingoFM.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -586,7 +587,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/72.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/Natoraji.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/Natoraji.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/Natoraji.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/Natoraji.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p>
 									<p><a href="http://listenradio.jp/Home/ProgramSchedule/30092/%E3%81%AA%E3%81%A8%E3%82%89%E3%81%98801" onClick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30092/%E3%81%AA%E3%81%A8%E3%82%89%E3%81%98801');"><img src="images/btn_lrbtn.png" alt="リスラジで聴く" width="70" height="32" border="0" /></a><br />
 									上記で再生できない方は、リスラジアイコンをクリックしてください</p></td>
@@ -601,7 +602,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/74.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/MinamisomaFM.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/MinamisomaFM.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/MinamisomaFM.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/MinamisomaFM.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -616,7 +617,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/75.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/kocofm.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/kocofm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/kocofm.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/kocofm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -629,7 +630,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/80.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><!--<p><a href="http://www.simulradio.info/asx/OnagawaFM.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/OnagawaFM.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />-->
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><!--<p><a href="https://www.simulradio.info/asx/OnagawaFM.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/OnagawaFM.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />-->
 								<!--音声--><!--音声 (64K)-->
 							<!--</p>--></td>
 						</tr>
@@ -657,7 +658,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/89.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/rikuzentakataFM.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/rikuzentakataFM.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/rikuzentakataFM.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/rikuzentakataFM.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声<!--音声 (64K)-->
 							</p></td>
 						</tr>
@@ -673,7 +674,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/91.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/OdagaisamaFM.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/OdagaisamaFM.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/OdagaisamaFM.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/OdagaisamaFM.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声<!--音声 (64K)-->
 							</p></td>
 						</tr>
@@ -692,7 +693,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/94.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><!--<p><a href="http://www.simulradio.info/asx/aozora.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/aozora.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><!--<p><a href="https://www.simulradio.info/asx/aozora.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/aozora.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声--><!--音声 (64K)-->
 							<!--</p>--></td>
 						</tr>
@@ -708,7 +709,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/100.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><!--<p><a href="http://www.simulradio.info/asx/otsuchi.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/otsuchi.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />-->
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><!--<p><a href="https://www.simulradio.info/asx/otsuchi.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/otsuchi.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />-->
 								<!--音声--><!--音声 (64K)-->
 							<!--</p>>--></td>
 						</tr>
@@ -723,7 +724,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/107.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/kamaishi.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/kamaishi.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/kamaishi.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/kamaishi.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声<!--音声 (64K)-->
 							</p></td>
 						</tr>
@@ -751,7 +752,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/119.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/befm.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/befm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/befm.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/befm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声<!--音声 (64K)-->
 							</p>
 							<p><a href="http://www.befm.co.jp/タイムテーブル/" target="_blank"	 onClick="javascript: pageTracker._trackPageview('http://www.befm.co.jp/タイムテーブル/');"><img src="images/btn_radio_bangumi.png" alt="番組表" width="70" height="32" border="0" /></a></p></td>
@@ -760,14 +761,14 @@ pageTracker._trackPageview();
 							<td colspan="2"><p style="clear:both;  margin-top: 0px;"><strong><a href="http://www.befm.co.jp/" target="_blank">BeFM</a></strong><br />
 									八戸市</p>
 								<p style="font-size: 70%; line-height: 140%; margin-top: 0px; clear: both;">月-金 7:00-9:00/12:00-22:00<br />
-土 14:30-21:00<br />
+土 14:30-22:00<br />
 日 18:00-24:00</p></td>
 						</tr>
 					</table></div><!--
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/120.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/kiritampo.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/kiritampo.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/kiritampo.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/kiritampo.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声<!--音声 (64K)-->
 							</p></td>
 						</tr>
@@ -796,7 +797,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/146.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/taihaku.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/taihaku.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/taihaku.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/taihaku.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声<!--音声 (64K)-->
 							</p></td>
 						</tr>
@@ -838,7 +839,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/9.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fmkento.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fmkento.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fmkento.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fmkento.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (128K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -851,7 +852,7 @@ pageTracker._trackPageview();
 				--><!--<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/10.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fmkaruizawa.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fmkaruizawa.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fmkaruizawa.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fmkaruizawa.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -869,7 +870,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/106.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/azumino.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/azumino.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/azumino.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/azumino.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -887,7 +888,7 @@ pageTracker._trackPageview();
 							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://lve.jp/ZrHcOD3aGfaG/" onClick="javascript: pageTracker._trackPageview('https://lve.jp/ZrHcOD3aGfaG/');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									映像・音声<br />
 									（548K）</p>
-								<p><a href="http://www.simulradio.info/asx/fmpalulun.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fmpalulun.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+								<p><a href="https://www.simulradio.info/asx/fmpalulun.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fmpalulun.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声のみ</p>
 								<p><a href="http://listenradio.jp/Home/ProgramSchedule/30022/FM%E3%81%B1%E3%82%8B%E3%82%8B%E3%82%93" onclick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30022/FM%E3%81%B1%E3%82%8B%E3%82%8B%E3%82%93');"><img src="images/btn_lrbtn.png" alt="リスラジで聴く" width="70" height="32" border="0"></a><br>
 									上記で再生できない方は、リスラジアイコンをクリックしてください</p></td>
@@ -926,12 +927,12 @@ pageTracker._trackPageview();
 					</table></div><!--
 				--><div class="radiobox"><table>
 						<tr valign="top">
-							<td><p><img src="data/154.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/smile.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/smile.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td><p><img src="data/175.jpg" width="90" height="60" class="left" /></p></td>
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/smile.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/smile.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
-							<td colspan="2"><p style="clear:both;  margin-top: 0px;"><strong><a href="https://clovermedia.jp" target="_blank">CLOVER MEDIA</a></strong><br />
+							<td colspan="2"><p style="clear:both;  margin-top: 0px;"><strong><a href="https://775fm.co.jp/" target="_blank">ナナコライブリーFM</a></strong><br />
 									朝霞市</p>
 								<p style="font-size: 70%; line-height: 140%; margin-top: 0px; clear: both;">24時間</p></td>
 						</tr>
@@ -988,7 +989,7 @@ pageTracker._trackPageview();
 							<td><p><img src="data/32.jpg" alt="" width="90" height="60" class="left" /></p></td>
 							<td width="90" align="center" valign="middle" style="font-size: x-small;">
 							<!--	<p><a href="mms://ir298.com/IRTsukuba/radiotsukuba.asx" onclick="javascript: pageTracker._trackPageview('mms://ir298.com/IRTsukuba/radiotsukuba.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />	-->
-								<p><a href="http://www.simulradio.info/asx/tsukuba.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/tsukuba.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+								<p><a href="https://www.simulradio.info/asx/tsukuba.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/tsukuba.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1003,7 +1004,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/38.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fm-tachikawa.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fm-tachikawa.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fm-tachikawa.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fm-tachikawa.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1017,7 +1018,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/41.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/kawasaki.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/kawasaki.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/kawasaki.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/kawasaki.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p>
               <p><a href="http://listenradio.jp/Home/ProgramSchedule/30046/かわさきFM" onclick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30046/かわさきFM');"><img src="images/btn_lrbtn.png" alt="リスラジで聴く" width="70" height="32" border="0"></a><br>
 									上記で再生できない方は、リスラジアイコンをクリックしてください</p></td>
@@ -1033,7 +1034,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/42.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/kiryufm.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/kiryufm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/kiryufm.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/kiryufm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1047,7 +1048,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/47.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/totsuka.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/totsuka.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/totsuka.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/totsuka.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p><p><a href="http://listenradio.jp/Home/ProgramSchedule/30064/FM戸塚" onclick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30064/FM戸塚');"><img src="images/btn_lrbtn.png" alt="リスラジで聴く" width="70" height="32" border="0"></a><br>
 									上記で再生できない方は、リスラジアイコンをクリックしてください</p></td>
 						</tr>
@@ -1061,7 +1062,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/56.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/FmSalus.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/FmSalus.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/FmSalus.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/FmSalus.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1074,7 +1075,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/62.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/chofu_fm.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/chofu_fm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/chofu_fm.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/chofu_fm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p>
 								<p><a href="http://listenradio.jp/Home/ProgramSchedule/30039/%E8%AA%BF%E5%B8%83FM" onclick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30039/%E8%AA%BF%E5%B8%83FM');"><img src="images/btn_lrbtn.png" alt="リスラジで聴く" width="70" height="32" border="0"></a><br>
 									上記で再生できない方は、リスラジアイコンをクリックしてください</p></td>
@@ -1103,7 +1104,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/76.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/katsushika.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/katsushika.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/katsushika.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/katsushika.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p>
 								<p><a href="http://listenradio.jp/Home/ProgramSchedule/30031/%E3%81%8B%E3%81%A4%E3%81%97%E3%81%8BFM" onClick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30031/%E3%81%8B%E3%81%A4%E3%81%97%E3%81%8BFM');"><img src="images/btn_lrbtn.png" alt="リスラジで聴く" width="70" height="32" border="0" /></a><br />
 									上記で再生できない方は、リスラジアイコンをクリックしてください</p></td>
@@ -1132,7 +1133,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/81.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/rainbowtown.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/rainbowtown.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/rainbowtown.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/rainbowtown.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1161,7 +1162,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/99.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/chuo_fm.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/chuo_fm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/chuo_fm.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/chuo_fm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1174,7 +1175,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/121.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/takahagi.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/takahagi.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/takahagi.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/takahagi.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声
 								<!--音声 (64K)-->
 							</p></td>
@@ -1189,7 +1190,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/133.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/kawaguchi.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/kawaguchi.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/kawaguchi.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/kawaguchi.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声
 								<!--音声 (64K)-->
 							</p></td>
@@ -1204,7 +1205,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/134.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fmuu.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fmuu.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fmuu.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fmuu.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声
 								<!--音声 (64K)-->
 							</p></td>
@@ -1219,7 +1220,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/141.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/hitachi.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/hitachi.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/hitachi.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/hitachi.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声
 								<!--音声 (64K)-->
 							</p></td>
@@ -1323,6 +1324,22 @@ pageTracker._trackPageview();
 								</td>
 						</tr>
 					</table>
+				</div><!--
+        --><div class="radiobox"><table>
+						<tr valign="top">
+							<td><p><img src="data/177.jpg" alt="" width="90" height="60" class="left" /></p></td>
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://listenradio.jp/Home/ProgramSchedule/30047/FMふっかちゃん" onclick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30047/FMふっかちゃん');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+								音声
+								<!--音声 (64K)-->
+							</p></td>
+						</tr>
+						<tr valign="top">
+							<td colspan="2"><p style="clear:both;  margin-top: 0px;">「放送を聞く」をクリックし、リスラジのFMふっかちゃんの番組表ページへ。左上のListenRadioのロゴの下の再生マークをクリックすると放送が聞けます。<br />
+							<strong><a href="https://www.fukaya-fm.com/" target="_blank">FMふっかちゃん</a></strong><br />
+								深谷市</p>
+								</td>
+						</tr>
+					</table>
 				</div>
 			</div>
 			<h2><a name="toukai" id="toukai"></a>東海</h2>
@@ -1343,7 +1360,7 @@ pageTracker._trackPageview();
 						</tr>
 					</table>
 				</div><!--
-				--><div class="radiobox"><table>
+				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/18.jpg" width="90" height="60" class="left" /></p></td>
 							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://listenradio.jp/Home/ProgramSchedule/30062/Ciao" onClick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30062/Ciao');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
@@ -1360,8 +1377,9 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/19.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/mid-fm761.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/mid-fm761.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
-									音声 (64K)</p></td>
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/mid-fm761.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/mid-fm761.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+									音声 (64K)</p><p><a href="http://listenradio.jp/Home/ProgramSchedule/30004/MID%20FM" onclick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30004/MID%20FM');" target="_blank"><img src="images/btn_lrbtn.png" alt="リスラジで聴く" width="70" height="32" border="0"></a><br>
+									上記で再生できない方は、リスラジアイコンをクリックしてください</p></td>
 						</tr>
 						<tr valign="top">
 							<td colspan="2"><p style="clear:both;  margin-top: 0px;"><strong><a href="http://midfm761.com/" target="_blank">MID-FM<br />
@@ -1373,7 +1391,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/174.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/FmOkazaki.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/FmOkazaki.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/FmOkazaki.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/FmOkazaki.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1402,7 +1420,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/118.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/toyota.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/toyota.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/toyota.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/toyota.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -1416,7 +1434,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/125.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/suzuka.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/suzuka.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/suzuka.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/suzuka.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1426,10 +1444,10 @@ pageTracker._trackPageview();
 						</tr>
 					</table>
 				</div><!--
-				--><div class="radiobox"><table>
+				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/127.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/izunokuni.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/izunokuni.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/izunokuni.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/izunokuni.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -1474,7 +1492,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/132.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/radiomyu.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/radiomyu.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/radiomyu.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/radiomyu.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -1529,7 +1547,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/25.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fm-miki.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fm-miki.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fm-miki.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fm-miki.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1572,7 +1590,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/35.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fm-tanabe.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fm-tanabe.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fm-tanabe.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fm-tanabe.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1587,7 +1605,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/39.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/jungle.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/jungle.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/jungle.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/jungle.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1600,7 +1618,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/46.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/banban.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/banban.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/banban.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/banban.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1613,7 +1631,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/82.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/beach_station.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/beach_station.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/beach_station.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/beach_station.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p>
 								<p><a href="https://www.fm764.com/schedule/timetable" target="_blank"	 onClick="javascript: pageTracker._trackPageview('https://www.fm764.com/schedule/timetable');"><img src="images/btn_radio_bangumi.png" alt="番組表" width="70" height="32" border="0" /></a></p></td>
 						</tr>
@@ -1630,7 +1648,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/85.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/minohfm.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/minohfm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/minohfm.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/minohfm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1643,7 +1661,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/87.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/yes-fm.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/yes-fm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/yes-fm.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/yes-fm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p><p><a href="http://listenradio.jp/Home/ProgramSchedule/30073/YES-fm" onClick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30073/YES-fm');" target="_blank"><img src="images/btn_lrbtn.png" alt="リスラジで聴く" width="70" height="32" border="0" /></a><br />
 									上記で再生できない方は、リスラジアイコンをクリックしてください</p></td>
 						</tr>
@@ -1660,7 +1678,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/90.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/KyotoLivingFM.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/KyotoLivingFM.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/KyotoLivingFM.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/KyotoLivingFM.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1677,7 +1695,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/109.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/aiai.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/aiai.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/aiai.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/aiai.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1696,7 +1714,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/110.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/rockets785.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/rockets785.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/rockets785.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/rockets785.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1709,7 +1727,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/114.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/hasimoto.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/hasimoto.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/hasimoto.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/hasimoto.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -1722,7 +1740,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/122.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/radiocafe.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/radiocafe.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/radiocafe.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/radiocafe.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1735,7 +1753,7 @@ pageTracker._trackPageview();
 				--><!--<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/128.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/tanbacom.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/tanbacom.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/tanbacom.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/tanbacom.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -1748,7 +1766,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/130.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/tango.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/tango.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/tango.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/tango.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -1761,7 +1779,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/131.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fmmoov.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fmmoov.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fmmoov.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fmmoov.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -1774,7 +1792,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/137.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/radiosweet.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/radiosweet.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/radiosweet.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/radiosweet.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (4K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1787,7 +1805,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/138.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fm805.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fm805.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fm805.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fm805.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (4K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1800,7 +1818,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/139.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/honey.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/honey.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/honey.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/honey.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (4K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1813,7 +1831,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/144.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/radiomixkyoto.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/radiomixkyoto.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/radiomixkyoto.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/radiomixkyoto.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (4K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1842,7 +1860,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/36.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fm-chupea.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fm-chupea.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fm-chupea.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fm-chupea.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1875,7 +1893,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/29.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fm815.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fm815.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fm815.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fm815.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1895,7 +1913,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/43.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/b-fm791.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/b-fm791.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/b-fm791.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/b-fm791.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1914,7 +1932,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/126.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fmsun.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fmsun.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fmsun.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fmsun.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -1937,7 +1955,7 @@ pageTracker._trackPageview();
 				--><!--<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/26.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fmnakatsu.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fmnakatsu.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fmnakatsu.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fmnakatsu.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -1950,7 +1968,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/27.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/sunshinefm.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/sunshinefm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/sunshinefm.asx" onClick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/sunshinefm.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -2037,7 +2055,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/116.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/hibiki.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/hibiki.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/hibiki.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/hibiki.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -2050,7 +2068,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/124.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/nobeoka.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/yufuin.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/nobeoka.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/yufuin.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -2063,7 +2081,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/143.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/ginga.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/ginga.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/ginga.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/ginga.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -2103,7 +2121,9 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/28.jpg" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fm-nirai.asx" onClick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fm-nirai.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="
+http://listenradio.jp/Home/ProgramSchedule/30003/FM%E3%83%8B%E3%83%A9%E3%82%A4" onClick="javascript: pageTracker._trackPageview('
+http://listenradio.jp/Home/ProgramSchedule/30003/FM%E3%83%8B%E3%83%A9%E3%82%A4');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -2130,11 +2150,11 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/48.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/uruma.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/uruma.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://listenradio.jp/Home/ProgramSchedule/30011/FMうるま" onclick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30011/FMうるま');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
-							<td colspan="2"><p style="clear:both;  margin-top: 0px;"><strong><a href="http://www.fm-uruma.com/" target="_blank">FMうるま<br />
+							<td colspan="2"><p style="clear:both;  margin-top: 0px;">「放送を聞く」をクリックし、リスラジのFMうるまの番組表ページへ。左上のListenRadioのロゴの下の再生マークをクリックすると放送が聞けます。<br /><strong><a href="http://www.fm-uruma.com/" target="_blank">FMうるま<br />
 									</a></strong>うるま市</p>
 								<p style="font-size: 70%; line-height: 140%; margin-top: 0px; clear: both;">24時間</p></td>
 						</tr>
@@ -2143,7 +2163,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/49.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fm21.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fm21.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fm21.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fm21.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -2156,7 +2176,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/50.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/lequio.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/lequio.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/lequio.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/lequio.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 									音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -2182,7 +2202,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/103.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/okiradi.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/okiradi.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/okiradi.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/okiradi.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声 (64K)</p></td>
 						</tr>
 						<tr valign="top">
@@ -2195,7 +2215,7 @@ pageTracker._trackPageview();
 				<div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/111.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/nanjo.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/nanjo.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/nanjo.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/nanjo.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -2208,7 +2228,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/113.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/motob.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/motob.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/motob.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/motob.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -2221,7 +2241,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/117.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/fmkumejima.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/fmkumejima.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/fmkumejima.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/fmkumejima.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p></td>
 						</tr>
 						<tr valign="top">
@@ -2234,7 +2254,7 @@ pageTracker._trackPageview();
 				--><div class="radiobox"><table>
 						<tr valign="top">
 							<td><p><img src="data/142.jpg" alt="" width="90" height="60" class="left" /></p></td>
-							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="http://www.simulradio.info/asx/ginowan.asx" onclick="javascript: pageTracker._trackPageview('http://www.simulradio.info/asx/ginowan.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
+							<td width="90" align="center" valign="middle" style="font-size: x-small;"><p><a href="https://www.simulradio.info/asx/ginowan.asx" onclick="javascript: pageTracker._trackPageview('https://www.simulradio.info/asx/ginowan.asx');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />
 								音声</p>
 								<p><a href="http://listenradio.jp/Home/ProgramSchedule/30093/FM%E3%81%8E%E3%81%AE%E3%82%8F%E3%82%93" onClick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30093/FM%E3%81%8E%E3%81%AE%E3%82%8F%E3%82%93');"><img src="images/btn_lrbtn.png" alt="リスラジで聴く" width="70" height="32" border="0" /></a><br />
 									上記で再生できない方は、リスラジアイコンをクリックしてください</p></td>
@@ -2298,6 +2318,17 @@ pageTracker._trackPageview();
 						<tr valign="top">
 							<td colspan="2"><p style="clear:both; margin-top: 0px;">「放送を聞く」をクリックし、リスラジのFMやんばるの番組表ページへ。左上のListenRadioのロゴの下の再生マークをクリックすると放送が聞けます。<br /><strong><a href="http://fmyanbaru.co.jp/" target="_blank">FMやんばる</a></strong><br />
 								名護市</p></td>
+						</tr>
+					</table>
+				</div><!--
+        --><div class="radiobox"><table>
+						<tr valign="top">
+							<td><p><img src="data/176.jpg" alt="" width="90" height="60" class="left" /></p></td>
+							<td width="90" align="center" valign="top" style="font-size: x-small;"><p><a href="http://listenradio.jp/Home/ProgramSchedule/30066/オキラジ" onclick="javascript: pageTracker._trackPageview('http://listenradio.jp/Home/ProgramSchedule/30066/オキラジ');"><img src="images/btn_radio.jpg" alt="放送を聴く" width="70" height="32" border="0" /></a><br />音声</p></td>
+						</tr>
+						<tr valign="top">
+							<td colspan="2"><p style="clear:both; margin-top: 0px;">「放送を聞く」をクリックし、リスラジのオキラジの番組表ページへ。左上のListenRadioのロゴの下の再生マークをクリックすると放送が聞けます。<br /><strong><a href="https://fm854.com/" target="_blank">オキラジ</a></strong><br />
+								沖縄市</p></td>
 						</tr>
 					</table>
 				</div><!--

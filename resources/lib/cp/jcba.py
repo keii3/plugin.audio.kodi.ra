@@ -72,7 +72,7 @@ class Jcba(Params):
             self.setup()
         return read_file(self.SETTINGS_FILE)
 
-    def getSettingsData2(self, fn = ''): # CommunityRadio(jcba/listenradio/simulradio)
+    def getSettingsData2(self, fn = ''):  # CommunityRadio(jcba/listenradio/simulradio)
 
         # 設定ダイアログを読み込む
         fn = os.path.join(Const.TEMPLATE_PATH, 'cp', 'community', fn)
@@ -83,7 +83,7 @@ class Jcba(Params):
     def getActiveStation(self, stn=''):
         # JCBA/ListenRadionにて，聴取する局を抽出します。
         ret = None
-        data = read_file(Const.USERSETTINGS_FILE) # /⁨addon_data⁩/⁨plugin.audio.kodi.ra⁩/settings.xml
+        data = read_file(Const.USERSETTINGS_FILE)  # /⁨addon_data⁩/⁨plugin.audio.kodi.ra⁩/settings.xml
         if data:
             dom = convert(parse(data))
             st = dom['settings']['setting']
@@ -94,7 +94,7 @@ class Jcba(Params):
         ret = False
         data=''
         data = read_file(fp)
-        if data:
+        if data is not None:
             sj = convert(json.loads(data), True)
             items = sj['items']
             if len(items) <= 3:
@@ -186,18 +186,16 @@ class Jcba(Params):
                 pp = []
 
                 data = read_file(fp)
-                if data:
+                if data is not None:
                     sj = convert(json.loads(data), True)
                     items = sj['items']
                     now = datetime.now()
 
-                    idx=0
                     for s in items:
-                        idx+=1
                         if datetime.strptime(s['start']['dateTime'][0:19], '%Y-%m-%dT%H:%M:%S') < now < datetime.strptime(s['end']['dateTime'][0:19], '%Y-%m-%dT%H:%M:%S'):
                             pp = [s]
                             break
-                    pp.append(items[idx])
+                    pp.append(items[-1])
 
                     for p in pp:
                         t=p['start']['dateTime']

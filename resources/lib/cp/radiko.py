@@ -258,7 +258,7 @@ class Radiko(Params, Jcba):
                 log('failed to get data from url:%s' % url)
         # キャッシュから番組データを抽出
         data = data or read_file(self.PROGRAM_FILE)
-        if data:
+        if data is not None:
             dom = convert(parse(data))
             buf = []
             # 放送局
