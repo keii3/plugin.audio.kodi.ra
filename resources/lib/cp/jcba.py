@@ -81,7 +81,7 @@ class Jcba(Params):
     def getActiveStation(self, stn=''):
         # JCBA/ListenRadionにて，聴取する局を抽出します。
         ret = None
-        data = read_file(Const.USERSETTINGS_FILE) # /⁨addon_data⁩/⁨plugin.audio.kodi.ra⁩/settings.xml
+        data = read_file(Const.USERSETTINGS_FILE)
         if data:
             dom = parse(data)
             st = dom['settings']['setting']
